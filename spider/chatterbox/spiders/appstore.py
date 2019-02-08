@@ -4,10 +4,13 @@ import scrapy
 
 class AppstoreSpider(scrapy.Spider):
     name = 'appstore'
-    allowed_domains = ['apple.com']
-    start_urls = [
-        'https://itunes.apple.com/cn/app/id423084029?l=en#?platform=iphone'
-    ]
+
+    def start_requests(self):
+        urls = [
+            'https://itunes.apple.com/cn/app/id423084029?l=en#?platform=iphone'
+        ]
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         # app name
@@ -16,8 +19,6 @@ class AppstoreSpider(scrapy.Spider):
 
         # version items
         version_items = response.css('ul.version-history__items li.version-history__item')
-
-        # each version item
         for item in version_items:
             version = item.css('h4.version-history__item__version-number::text').get()
             release_date = item.css('time.version-history__item__release-date::text').get()
