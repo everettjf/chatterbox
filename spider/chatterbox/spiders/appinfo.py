@@ -2,12 +2,13 @@
 import scrapy
 
 
-class AppstoreSpider(scrapy.Spider):
-    name = 'appstore'
+class AppinfoSpider(scrapy.Spider):
+    name = 'appinfo'
 
     def start_requests(self):
         urls = [
-            'https://itunes.apple.com/cn/app/id423084029?l=en#?platform=iphone'
+            # 'https://itunes.apple.com/cn/app/id423084029?l=en#?platform=iphone',
+            'https://itunes.apple.com/cn/app/%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91-%E5%A5%BD%E7%8E%A9%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BF%99/id1142110895?mt=8&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=&ign-mpt=uo%3D4',
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
