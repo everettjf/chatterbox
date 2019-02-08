@@ -49,3 +49,17 @@ class AppstoreSpider(scrapy.Spider):
             info_dict[k] = v
 
         print(info_dict)
+
+        headerlist = response.css('ul.app-header__list')
+        rank_desc = headerlist.xpath('li[1]/ul/li/text()').get()
+        rating_desc = headerlist.css('figcaption.we-rating-count::text').get()
+
+        if rank_desc:
+            rank_desc = rank_desc.strip()
+        if rating_desc:
+            rating_desc = rating_desc.strip()
+
+        print(rank_desc)
+        print(rating_desc)
+
+        
