@@ -1,15 +1,53 @@
 # -*- coding: utf-8 -*-
 import scrapy
+from chatterbox import settings
+import os
+import json
+from datetime import datetime
 
 
 class AppinfoSpider(scrapy.Spider):
     name = 'appinfo'
 
+    def get_apps_txt_path(self):
+        return os.path.join(settings.PROJECT_ROOT,'..','apps.txt')
+
+    def get_today_topapp_json_path(self):
+        now = datetime.now()
+        today = now.strftime("%Y%m%d")
+        return os.path.join(settings.PROJECT_ROOT,'..','data',today,'topapp.json')
+
+    def get_urls(self):
+        urls = []
+
+        # apps.txt
+        print('-' * 80)
+        apps_txt_path = self.get_apps_txt_path()
+        print('apps.txt : {}'.format(apps_txt_path))
+        with open(apps_txt_path) as fp:
+            for line in fp:
+                line = line.strip()
+                if line == '' or line.startswith('#'):
+                    continue
+                urls.append(line)
+                
+        # data/${today}/topapp.json
+        print('-' * 80)
+        today_topapp_json_path = self.get_today_topapp_json_path()
+        print('today topapp.json : {}'.format(today_topapp_json_path))
+        with open(today_topapp_json_path) as fp:
+            items = json.load(fp)
+            for item in items:
+                urls.append(item['url'])
+
+        urls = urls[0:3]
+        print(urls)
+        return urls
+
+
+
     def start_requests(self):
-        urls = [
-            # 'https://itunes.apple.com/cn/app/id423084029?l=en#?platform=iphone',
-            'https://itunes.apple.com/cn/app/%E6%8A%96%E9%9F%B3%E7%9F%AD%E8%A7%86%E9%A2%91-%E5%A5%BD%E7%8E%A9%E7%9A%84%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%BF%99/id1142110895?mt=8&v0=WWW-GCCN-ITSTOP100-FREEAPPS&l=&ign-mpt=uo%3D4',
-        ]
+        urls = self.get_urls()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 

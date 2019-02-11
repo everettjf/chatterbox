@@ -9,11 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
+import os
+
 BOT_NAME = 'chatterbox'
 
 SPIDER_MODULES = ['chatterbox.spiders']
 NEWSPIDER_MODULE = 'chatterbox.spiders'
 
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'chatterbox (+http://www.yourdomain.com)'
