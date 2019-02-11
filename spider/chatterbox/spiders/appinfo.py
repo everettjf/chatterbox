@@ -40,7 +40,6 @@ class AppinfoSpider(scrapy.Spider):
             for item in items:
                 urls.append(item['url'])
 
-        urls = urls[0:1]
         print(urls)
         return urls
 

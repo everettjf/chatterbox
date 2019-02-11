@@ -1,4 +1,4 @@
-
+# !/bin/bash
 
 today=`date +%Y%m%d`
 
@@ -11,4 +11,4 @@ mkdir ${outputdir}
 
 scrapy crawl topapp -o ${outputdir}/topapp.json
 
-
+scrapy crawl appinfo -o ${outputdir}/appinfo.json
