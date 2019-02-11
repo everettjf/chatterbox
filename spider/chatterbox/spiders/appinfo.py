@@ -4,7 +4,7 @@ from chatterbox import settings
 import os
 import json
 from datetime import datetime
-
+from urllib.parse import urlparse
 
 class AppinfoSpider(scrapy.Spider):
     name = 'appinfo'
@@ -40,10 +40,9 @@ class AppinfoSpider(scrapy.Spider):
             for item in items:
                 urls.append(item['url'])
 
-        urls = urls[0:3]
+        urls = urls[0:1]
         print(urls)
         return urls
-
 
 
     def start_requests(self):
@@ -52,18 +51,26 @@ class AppinfoSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
+        app = {}
+
+        print('*' * 80)
+        url = urlparse(response.url)
+        product_id = url.path.split('/')[-1]
+
         # app name
         app_name = response.css('header.product-header h2.product-header__identity a.link::text').get()
-        print(app_name)
 
         # version items
+        version_history = []
         version_items = response.css('ul.version-history__items li.version-history__item')
         for item in version_items:
             version = item.css('h4.version-history__item__version-number::text').get()
             release_date = item.css('time.version-history__item__release-date::text').get()
 
-            print(version)
-            print(release_date)
+            version_history.append({
+                'version': version,
+                'release_date': release_date
+            })
         
         # info dictionary
         info_dict = {
@@ -84,10 +91,7 @@ class AppinfoSpider(scrapy.Spider):
 
             if v == '':
                 continue
-            
             info_dict[k] = v
-
-        print(info_dict)
 
         headerlist = response.css('ul.app-header__list')
         rank_desc = headerlist.xpath('li[1]/ul/li/text()').get()
@@ -98,7 +102,13 @@ class AppinfoSpider(scrapy.Spider):
         if rating_desc:
             rating_desc = rating_desc.strip()
 
-        print(rank_desc)
-        print(rating_desc)
+        yield({
+            'product_id': product_id,
+            'app_name': app_name,
+            'rank_desc': rank_desc,
+            'rating_desc': rating_desc,
+            'info_list': info_dict,
+            'version_history': version_history,
+        })
 
         
