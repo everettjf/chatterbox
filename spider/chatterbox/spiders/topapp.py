@@ -17,18 +17,15 @@ class TopappSpider(scrapy.Spider):
         appsection = response.css('section.apps')
         apps = appsection.css('li')
         for app in apps:
-            img = app.css('a img::attr(src)').get()
-            img = response.urljoin(img)
+            # img = app.css('a img::attr(src)').get()
+            # img = response.urljoin(img)
 
-            name = app.css('h3 a::text').get()
+            # name = app.css('h3 a::text').get()
             url = app.css('h3 a::attr(href)').get()
-            category = app.css('h4 a::text').get()
+            # category = app.css('h4 a::text').get()
 
             yield({
-                'img': img,
-                'name': name,
                 'url': url,
-                'category': category,
             })
         
         
