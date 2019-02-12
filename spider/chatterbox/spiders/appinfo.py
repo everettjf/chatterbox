@@ -9,10 +9,10 @@ from urllib.parse import urlparse
 class AppinfoSpider(scrapy.Spider):
     name = 'appinfo'
 
-    def today_string(self):
+    def __init__(self):
         now = datetime.now()
         today = now.strftime("%Y%m%d")
-        return today
+        self.today_string = today
 
     def format_app_url(self, id):
         return "https://itunes.apple.com/cn/app/" + id
@@ -35,8 +35,7 @@ class AppinfoSpider(scrapy.Spider):
         return ids
 
     def get_today_directory(self):
-        today = self.today_string()
-        return os.path.join(settings.PROJECT_ROOT,'..','data',today)
+        return os.path.join(settings.PROJECT_ROOT,'..','data',self.today_string)
 
     def get_today_topapp_json_path(self):
         return os.path.join(self.get_today_directory(),'topapp.json')
@@ -104,7 +103,8 @@ class AppinfoSpider(scrapy.Spider):
         product_id = url.path.split('/')[-1]
 
         # app name
-        app_name = response.css('header.product-header h2.product-header__identity a.link::text').get()
+        app_name = response.css('header.product-header h1.product-header__title::text').get()
+        app_name = app_name.strip()
         if app_name == '':
             print('!!!!! can not get app name for {}'.format(response.url))
             return
