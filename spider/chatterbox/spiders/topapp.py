@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+from urllib.parse import urlparse
 
 
 class TopappSpider(scrapy.Spider):
@@ -22,9 +23,11 @@ class TopappSpider(scrapy.Spider):
             # img = response.urljoin(img)
             # name = app.css('h3 a::text').get()
             # category = app.css('h4 a::text').get()
+            p = urlparse(url)
+            product_id = p.path.split('/')[-1]
 
             yield({
-                'url': url,
+                'id': product_id
             })
         
         

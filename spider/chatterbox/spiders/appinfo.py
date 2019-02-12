@@ -9,39 +9,82 @@ from urllib.parse import urlparse
 class AppinfoSpider(scrapy.Spider):
     name = 'appinfo'
 
-    def get_apps_txt_path(self):
-        return os.path.join(settings.PROJECT_ROOT,'..','apps.txt')
-
-    def get_today_topapp_json_path(self):
+    def today_string(self):
         now = datetime.now()
         today = now.strftime("%Y%m%d")
-        return os.path.join(settings.PROJECT_ROOT,'..','data',today,'topapp.json')
+        return today
 
-    def get_urls(self):
-        urls = []
+    def format_app_url(self, id):
+        return "https://itunes.apple.com/cn/app/" + id
 
-        # apps.txt
-        print('-' * 80)
+    def get_apps_txt_path(self):
+        return os.path.join(settings.PROJECT_ROOT,'..','apps.txt')
+    
+    def get_apps_txt_ids(self):
+        ids = []
+
         apps_txt_path = self.get_apps_txt_path()
         print('apps.txt : {}'.format(apps_txt_path))
+
         with open(apps_txt_path) as fp:
             for line in fp:
                 line = line.strip()
                 if line == '' or line.startswith('#'):
                     continue
-                urls.append(line)
-                
-        # data/${today}/topapp.json
-        print('-' * 80)
+                ids.append(line)
+        return ids
+
+    def get_today_directory(self):
+        today = self.today_string()
+        return os.path.join(settings.PROJECT_ROOT,'..','data',today)
+
+    def get_today_topapp_json_path(self):
+        return os.path.join(self.get_today_directory(),'topapp.json')
+
+    def get_today_topapp_ids(self):
+        ids = []
+
         today_topapp_json_path = self.get_today_topapp_json_path()
         print('today topapp.json : {}'.format(today_topapp_json_path))
+
         with open(today_topapp_json_path) as fp:
             items = json.load(fp)
             for item in items:
-                urls.append(item['url'])
+                ids.append(item['id'])
 
-        print(urls)
-        return urls
+        return ids
+
+    def get_ignore_idset(self):
+        result_dir = os.path.join(self.get_today_directory(),'appinfo')
+        if not os.path.exists(result_dir):
+            return set()
+
+        ids = set()
+        filenames = os.listdir(result_dir)
+        for filename in filenames:
+            id = filename.split('.')[0]
+            ids.add(id)
+
+        return ids
+
+    def get_urls(self):
+        # apps.txt
+        ids = []
+        ids.extend(self.get_apps_txt_ids())
+
+        # data/${today}/topapp.json
+        ids.extend(self.get_today_topapp_ids())
+
+        # make unique
+        ids = list(set(ids))
+
+        # remove ignore
+        ignoreset = self.get_ignore_idset()
+        print('ignore ids : {}'.format(ignoreset))
+        ids = [id for id in ids if id not in ignoreset ]
+        
+        return [self.format_app_url(id) for id in ids]
+    
 
 
     def start_requests(self):
@@ -52,12 +95,19 @@ class AppinfoSpider(scrapy.Spider):
     def parse(self, response):
         app = {}
 
+        if response.status != 200:
+            print('result ignored because response status : {}'.format(response.status))
+            return
+
         print('*' * 80)
         url = urlparse(response.url)
         product_id = url.path.split('/')[-1]
 
         # app name
         app_name = response.css('header.product-header h2.product-header__identity a.link::text').get()
+        if app_name == '':
+            print('!!!!! can not get app name for {}'.format(response.url))
+            return
 
         # version items
         version_history = []
@@ -101,13 +151,21 @@ class AppinfoSpider(scrapy.Spider):
         if rating_desc:
             rating_desc = rating_desc.strip()
 
-        yield({
-            'product_id': product_id,
+        appinfo = {
+            'url': response.url,
+            'id': product_id,
             'app_name': app_name,
             'rank_desc': rank_desc,
             'rating_desc': rating_desc,
             'info_list': info_dict,
             'version_history': version_history,
-        })
+        }
 
+        result_dir = os.path.join(self.get_today_directory(),'appinfo')
+        if not os.path.exists(result_dir):
+            os.mkdir(result_dir)
+
+        result_path = os.path.join(result_dir, product_id+'.json')
+        with open(result_path,'w') as fp:
+            json.dump(appinfo, fp, indent=2)
         
