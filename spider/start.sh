@@ -9,8 +9,7 @@ outputdir=data/${today}
 rm -rf ${outputdir}
 mkdir ${outputdir}
 
-scrapy crawl topapp -o ${outputdir}/topapp.json
-
-python util/unique.py ${outputdir}/topapp.json
+#scrapy crawl topapp -o ${outputdir}/topapp.json
+#python util/unique.py ${outputdir}/topapp.json
 
 scrapy crawl appinfo
