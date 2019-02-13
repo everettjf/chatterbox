@@ -121,7 +121,7 @@ def help():
     print('Usage: ')
     print('  python rank.py version-count <appinfo-directory-path>')
     print('  python rank.py days-per-version <appinfo-directory-path>')
-    print('  python rank.py days-per-version-last-3-month <appinfo-directory-path>')
+    print('  python rank.py days-per-version-last-6-month <appinfo-directory-path>')
     print('  python rank.py emergency-release-count <appinfo-directory-path>')
 
 
