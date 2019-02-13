@@ -42,11 +42,28 @@ def compute_days_per_version_last_6_month(appinfo):
             break
         
         cnt += 1
+    if cnt == 0:
+        return 9999
     
     return 180.0 / cnt
 
 def compute_emergency_release_count(appinfo):
-    return 0
+    versions = appinfo['version_history']
+    if len(versions) < 3:
+        return 9999
+
+    cnt = 0
+    for i in range(1,len(versions)-1):
+        pre = i-1
+        cur = i
+
+        pre_time = datetime.strptime(versions[pre]['release_date'], '%Y年%m月%d日')
+        cur_time = datetime.strptime(versions[cur]['release_date'], '%Y年%m月%d日')
+
+        delta = pre_time - cur_time
+        if delta.days <= 1:
+            cnt += 1
+    return cnt
 
 def report_dir(path, option):
     applist = []
@@ -58,13 +75,17 @@ def report_dir(path, option):
         with open(filepath) as fp:
             appinfo = json.load(fp)
 
+            version_count = len(appinfo['version_history'])
+            if version_count < 10:
+                continue
+
             applist.append({
                 'id':appinfo['id'],
                 'app-name':appinfo['app_name'],
-                'version-count': len(appinfo['version_history']),
+                'version-count': version_count,
                 'days-per-version': compute_days_per_version(appinfo),
-                'days-per-version_last_6_month': compute_days_per_version_last_6_month(appinfo),
-                'emergency-release0count': compute_emergency_release_count(appinfo),
+                'days-per-version-last-6-month': compute_days_per_version_last_6_month(appinfo),
+                'emergency-release-count': compute_emergency_release_count(appinfo),
             })
     
     print('*' * 80)
@@ -86,7 +107,7 @@ def report_dir(path, option):
             print(app)
     elif option == 'emergency-release-count':
         print('=== Order by emergency release count ===')
-        applist_orderby_freq = sorted(applist, key = lambda app: app['emergency-release-count'])
+        applist_orderby_freq = sorted(applist, key = lambda app: app['emergency-release-count'], reverse=True)
         for app in applist_orderby_freq:
             print(app)
     else:
