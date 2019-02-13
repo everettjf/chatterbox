@@ -1,0 +1,935 @@
+********************************************************************************
+=== Order by emergency release count ===
+{'id': 'id1422157210', 'app-name': 'Pixaloop·', 'version-count': 25, 'days-per-version': 5.125, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 7}
+{'id': 'id1156439976', 'app-name': '心悦俱乐部', 'version-count': 25, 'days-per-version': 21.625, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 7}
+{'id': 'id1032287195', 'app-name': 'Soul－跟随灵魂找到你', 'version-count': 25, 'days-per-version': 5.291666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 6}
+{'id': 'id1212182562', 'app-name': '小米有品-小米精品生活购物商城', 'version-count': 25, 'days-per-version': 9.333333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 6}
+{'id': 'id1080930585', 'app-name': '电池寿命 (Battery Life)', 'version-count': 25, 'days-per-version': 31.25, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 5}
+{'id': 'id805451002', 'app-name': 'Pendo笔记', 'version-count': 25, 'days-per-version': 16.541666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 5}
+{'id': 'id1256874211', 'app-name': '爱情银行-小情侣秀恩爱恋爱记录软件', 'version-count': 25, 'days-per-version': 9.708333333333334, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 5}
+{'id': 'id1362548649', 'app-name': 'NOMO 相机 - 你的拍立得', 'version-count': 25, 'days-per-version': 6.958333333333333, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 5}
+{'id': 'id416048305', 'app-name': '美图秀秀', 'version-count': 25, 'days-per-version': 6.458333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 5}
+{'id': 'id1313654492', 'app-name': '快手电丸', 'version-count': 25, 'days-per-version': 14.708333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 5}
+{'id': 'id1215210046', 'app-name': '微博国际版', 'version-count': 25, 'days-per-version': 5.875, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 5}
+{'id': 'id1137896285', 'app-name': '克拉克拉-语音直播视频小说配音秀', 'version-count': 25, 'days-per-version': 6.333333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 5}
+{'id': 'id440948110', 'app-name': '快手', 'version-count': 25, 'days-per-version': 6.541666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 5}
+{'id': 'id575846819', 'app-name': '珍爱网-成就天下姻缘', 'version-count': 25, 'days-per-version': 10.791666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 4}
+{'id': 'id582204969', 'app-name': '悦美-整形优惠特卖', 'version-count': 25, 'days-per-version': 16.291666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 4}
+{'id': 'id1358107315', 'app-name': '手机铃声制作 - 铃声设置助手大全', 'version-count': 25, 'days-per-version': 12.458333333333334, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 4}
+{'id': 'id917670924', 'app-name': '搜狗输入法-语音输入文字扫描', 'version-count': 25, 'days-per-version': 25.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 4}
+{'id': 'id1263789061', 'app-name': '小日常 - Fit计划与时间管理日历', 'version-count': 25, 'days-per-version': 7.75, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 4}
+{'id': 'id1384567076', 'app-name': '聊天宝 - 原子弹短信', 'version-count': 25, 'days-per-version': 6.875, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 4}
+{'id': 'id477927812', 'app-name': '百度贴吧-全球最大中文兴趣社区', 'version-count': 25, 'days-per-version': 15.458333333333334, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 3}
+{'id': 'id423084029', 'app-name': '美团-吃喝玩乐,尽在美团', 'version-count': 25, 'days-per-version': 7.875, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 3}
+{'id': 'id997586276', 'app-name': '首汽约车-高品质专车出行服务', 'version-count': 25, 'days-per-version': 10.375, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 3}
+{'id': 'id395096736', 'app-name': '去哪儿旅行-机票酒店火车票和门票预订', 'version-count': 25, 'days-per-version': 17.541666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 3}
+{'id': 'id1390240947', 'app-name': '花生日记 - 官方正版', 'version-count': 24, 'days-per-version': 10.521739130434783, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 3}
+{'id': 'id1371836010', 'app-name': '小目标打卡-习惯培养与计划提醒', 'version-count': 25, 'days-per-version': 7.875, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 3}
+{'id': 'id988173374', 'app-name': '泼辣修图', 'version-count': 25, 'days-per-version': 18.041666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 3}
+{'id': 'id1419390376', 'app-name': '剧本杀—社交推理解谜游戏', 'version-count': 20, 'days-per-version': 7.157894736842105, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 3}
+{'id': 'id1029982187', 'app-name': '爱又米-分期购物的年轻人消费平台', 'version-count': 25, 'days-per-version': 25.458333333333332, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id919857495', 'app-name': '小豆苗-宝宝疫苗接种育儿助手', 'version-count': 25, 'days-per-version': 12.833333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id1158753204', 'app-name': '天猫精灵', 'version-count': 25, 'days-per-version': 14.833333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id785946884', 'app-name': '淘宝联盟', 'version-count': 25, 'days-per-version': 34.333333333333336, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 3}
+{'id': 'id1138302879', 'app-name': '优信二手车全国购-二手车买卖平台', 'version-count': 25, 'days-per-version': 15.208333333333334, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 3}
+{'id': 'id957323480', 'app-name': '米家-精品商城 智能生活', 'version-count': 25, 'days-per-version': 9.416666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 3}
+{'id': 'id641895599', 'app-name': 'nice - 潮流看我', 'version-count': 25, 'days-per-version': 7.583333333333333, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 3}
+{'id': 'id417200582', 'app-name': '唯品会 - 品牌特卖', 'version-count': 25, 'days-per-version': 8.416666666666666, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 3}
+{'id': 'id539988420', 'app-name': '他趣 - 成人情趣体验社', 'version-count': 25, 'days-per-version': 9.0, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id1223932558', 'app-name': '巧影 - 专业视频编辑', 'version-count': 25, 'days-per-version': 16.083333333333332, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id1085941322', 'app-name': '你今天真好看 - 拍照轻松测肤质', 'version-count': 25, 'days-per-version': 12.125, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 3}
+{'id': 'id605670941', 'app-name': '百度翻译-外语词典翻译，英语学习必备', 'version-count': 25, 'days-per-version': 25.5, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 3}
+{'id': 'id1422485939', 'app-name': 'TELEVI 1988 - VHS 摄录一体机', 'version-count': 12, 'days-per-version': 3.727272727272727, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 3}
+{'id': 'id1077776989', 'app-name': '潮汐 - 睡眠、专注与冥想的白噪音番茄钟', 'version-count': 25, 'days-per-version': 10.458333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 3}
+{'id': 'id592331499', 'app-name': '美颜相机BeautyCam-自拍大片有质感', 'version-count': 25, 'days-per-version': 6.708333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id1134496215', 'app-name': '西瓜视频 - 人气综艺和娱乐搞笑视频', 'version-count': 25, 'days-per-version': 7.041666666666667, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 3}
+{'id': 'id858401906', 'app-name': '宝宝知道-科学备孕怀孕的育婴助手', 'version-count': 25, 'days-per-version': 20.083333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 3}
+{'id': 'id389801252', 'app-name': 'Instagram', 'version-count': 25, 'days-per-version': 7.291666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id951937596', 'app-name': 'Microsoft Outlook', 'version-count': 25, 'days-per-version': 6.458333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id1207254643', 'app-name': '作文纸条-学霸都在偷偷用的学习软件', 'version-count': 25, 'days-per-version': 29.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 3}
+{'id': 'id878691772', 'app-name': 'Pillow自动睡眠追踪', 'version-count': 25, 'days-per-version': 18.958333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 3}
+{'id': 'id1390442505', 'app-name': '小度音箱——更流畅地体验百度AI智能硬件', 'version-count': 18, 'days-per-version': 14.529411764705882, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 3}
+{'id': 'id942443472', 'app-name': '最右', 'version-count': 25, 'days-per-version': 7.208333333333333, 'days-per-version-last-6-month': 7.5, 'emergency-release-count': 3}
+{'id': 'id947269781', 'app-name': '别样海外购 - 买潮鞋美妆，来这海淘才识货', 'version-count': 25, 'days-per-version': 12.666666666666666, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 3}
+{'id': 'id847334708', 'app-name': '美拍', 'version-count': 25, 'days-per-version': 11.916666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 3}
+{'id': 'id1254875992', 'app-name': 'Enlight Quickshot', 'version-count': 25, 'days-per-version': 15.166666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 3}
+{'id': 'id588013838', 'app-name': 'VSCO', 'version-count': 25, 'days-per-version': 7.041666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id1142110895', 'app-name': '抖音短视频', 'version-count': 25, 'days-per-version': 8.708333333333334, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 3}
+{'id': 'id1139698614', 'app-name': 'Timing-让学习变得更有趣', 'version-count': 25, 'days-per-version': 11.458333333333334, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 3}
+{'id': 'id741292507', 'app-name': '小红书 – 找到你想要的生活', 'version-count': 25, 'days-per-version': 4.0, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id1121090056', 'app-name': '来分期-凭身份证1分钟到账', 'version-count': 25, 'days-per-version': 6.541666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 3}
+{'id': 'id1274938524', 'app-name': 'Focos', 'version-count': 25, 'days-per-version': 19.166666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 3}
+{'id': 'id1151880430', 'app-name': 'Nico-情趣交友社区', 'version-count': 25, 'days-per-version': 13.083333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 3}
+{'id': 'id991258183', 'app-name': "杰西卡的秘密-Jessica's secret", 'version-count': 25, 'days-per-version': 23.0, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 3}
+{'id': 'id945598289', 'app-name': 'CF掌上穿越火线', 'version-count': 25, 'days-per-version': 18.083333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id1009442510', 'app-name': 'Colorfy : 成人用乐趣填色书 － 秘密花园游戏', 'version-count': 25, 'days-per-version': 12.75, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 2}
+{'id': 'id897003024', 'app-name': '网易邮箱大师', 'version-count': 25, 'days-per-version': 21.583333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 2}
+{'id': 'id1388750151', 'app-name': '我是谜-《明星大侦探4》合作伙伴', 'version-count': 25, 'days-per-version': 7.0, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 2}
+{'id': 'id931409652', 'app-name': '讯飞语记 - 语音备忘录云笔记', 'version-count': 25, 'days-per-version': 25.625, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 2}
+{'id': 'id963152777', 'app-name': '樊登读书「读书点亮生活」读书看书听书阅读必备软件', 'version-count': 25, 'days-per-version': 25.5, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id1184130794', 'app-name': '联动云租车-共享用车 品质出行', 'version-count': 25, 'days-per-version': 20.208333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id1287016336', 'app-name': 'MAKA做出好设计', 'version-count': 25, 'days-per-version': 11.125, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id444934666', 'app-name': 'QQ', 'version-count': 25, 'days-per-version': 20.708333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 2}
+{'id': 'id451400917', 'app-name': '一淘-阿里巴巴官方返利省钱APP', 'version-count': 25, 'days-per-version': 17.375, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id966129812', 'app-name': '即刻 - 找到自己人', 'version-count': 25, 'days-per-version': 10.166666666666666, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id881419775', 'app-name': '妈妈网孕育-怀孕孕期伴侣和母婴备孕孕育管家', 'version-count': 25, 'days-per-version': 16.958333333333332, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id896405406', 'app-name': '学而思网校-中小学生互动学习辅导平台', 'version-count': 25, 'days-per-version': 10.625, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id899529698', 'app-name': '顺丰速运－你的速运助手', 'version-count': 25, 'days-per-version': 30.875, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 2}
+{'id': 'id977883304', 'app-name': '中国大学MOOC（慕课）', 'version-count': 25, 'days-per-version': 22.75, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id626144601', 'app-name': '滴答清单 - 专注时间管理日程提醒的待办事项清单', 'version-count': 25, 'days-per-version': 11.625, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id737310995', 'app-name': '美团外卖-外卖订餐,送啥都快', 'version-count': 25, 'days-per-version': 11.291666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 2}
+{'id': 'id475666808', 'app-name': '掌上英雄联盟 for LOL', 'version-count': 25, 'days-per-version': 21.166666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id399363156', 'app-name': '腾讯新闻-事实派的热点资讯阅读软件', 'version-count': 25, 'days-per-version': 7.583333333333333, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 2}
+{'id': 'id486744917', 'app-name': '国美-享生活 惠购物', 'version-count': 25, 'days-per-version': 19.75, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id1328120782', 'app-name': '电视派', 'version-count': 20, 'days-per-version': 14.31578947368421, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id966769021', 'app-name': '大白贷款-小额贷款之现金借款分期借款平台', 'version-count': 25, 'days-per-version': 38.791666666666664, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 2}
+{'id': 'id694133630', 'app-name': '钢琴 - 键盘和音乐游戏魔术块', 'version-count': 25, 'days-per-version': 21.75, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id1056487123', 'app-name': 'mars - 探索新鲜城事', 'version-count': 25, 'days-per-version': 19.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id1340376323', 'app-name': '淘宝特价版', 'version-count': 15, 'days-per-version': 18.357142857142858, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 2}
+{'id': 'id386756967', 'app-name': '挖财记账-智能记账软件', 'version-count': 25, 'days-per-version': 11.833333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id587238847', 'app-name': '肯德基KFC(官方版)-会员优惠券和宅急送外卖订餐', 'version-count': 25, 'days-per-version': 24.041666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id1149994032', 'app-name': 'Facetune2: 自拍照编辑器和相机', 'version-count': 25, 'days-per-version': 18.625, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 2}
+{'id': 'id1228038936', 'app-name': '饭局狼人', 'version-count': 24, 'days-per-version': 26.347826086956523, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 2}
+{'id': 'id1121520457', 'app-name': '轻芒杂志 · 高品质综合杂志', 'version-count': 25, 'days-per-version': 11.125, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id1215148253', 'app-name': '去上网', 'version-count': 25, 'days-per-version': 24.125, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id1375390276', 'app-name': '轻颜相机-猪猪女孩，精致过年', 'version-count': 25, 'days-per-version': 7.166666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 2}
+{'id': 'id738897668', 'app-name': '小影-视频编辑 & 视频剪辑 & 视频制作', 'version-count': 25, 'days-per-version': 8.166666666666666, 'days-per-version-last-6-month': 7.5, 'emergency-release-count': 2}
+{'id': 'id1246135464', 'app-name': '爱作业-手机拍一拍,作业全改好', 'version-count': 25, 'days-per-version': 19.958333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 2}
+{'id': 'id1056015676', 'app-name': 'ofo共享单车-智能无桩好骑', 'version-count': 25, 'days-per-version': 10.416666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id1125855154', 'app-name': 'B612咔叽 - 点缀你的自然美', 'version-count': 25, 'days-per-version': 12.333333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 2}
+{'id': 'id506685538', 'app-name': '蜻蜓FM收音机广播电台 - 听相声评书有声小说', 'version-count': 25, 'days-per-version': 16.333333333333332, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id880576601', 'app-name': '券妈妈优惠券-5千万人都在领优惠券', 'version-count': 25, 'days-per-version': 29.541666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id368677368', 'app-name': '优步，伴您轻松海外行', 'version-count': 25, 'days-per-version': 7.25, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 2}
+{'id': 'id1098102973', 'app-name': '企鹅直播-看NBA足球体育赛事视频', 'version-count': 25, 'days-per-version': 13.916666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id997362197', 'app-name': 'InShot - 视频编辑 & 视频剪辑 & 视频制作', 'version-count': 25, 'days-per-version': 19.208333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id906936224', 'app-name': '快看漫画-高清正版漫画流畅看', 'version-count': 25, 'days-per-version': 7.166666666666667, 'days-per-version-last-6-month': 7.5, 'emergency-release-count': 2}
+{'id': 'id1265702413', 'app-name': '一喂顺风车 - 更安全，更好用的顺风车', 'version-count': 25, 'days-per-version': 12.708333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id789634484', 'app-name': '百度浏览器', 'version-count': 25, 'days-per-version': 39.625, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 2}
+{'id': 'id1286983622', 'app-name': 'XMind 思维导图', 'version-count': 25, 'days-per-version': 14.833333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id461317017', 'app-name': '掌上公交-精准实时公交地铁查询', 'version-count': 25, 'days-per-version': 19.916666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id881599819', 'app-name': 'StockX - Buy & Sell Authentic', 'version-count': 25, 'days-per-version': 9.333333333333334, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 2}
+{'id': 'id1031158715', 'app-name': 'MediBang Paint', 'version-count': 25, 'days-per-version': 26.791666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 2}
+{'id': 'id705795925', 'app-name': '广发证券易淘金-股票开户 炒股理财', 'version-count': 25, 'days-per-version': 24.625, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 2}
+{'id': 'id557545298', 'app-name': '百词斩-背单词、学英语必备', 'version-count': 25, 'days-per-version': 21.166666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id1190199403', 'app-name': '豌豆公主', 'version-count': 25, 'days-per-version': 11.666666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id838848566', 'app-name': 'Zenly：挚友专属', 'version-count': 25, 'days-per-version': 7.916666666666667, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 2}
+{'id': 'id1316314058', 'app-name': '爆裂抓娃娃-新春口红机 福袋机年货天天大放送', 'version-count': 24, 'days-per-version': 16.608695652173914, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 2}
+{'id': 'id1012867463', 'app-name': '网商银行', 'version-count': 25, 'days-per-version': 27.916666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 2}
+{'id': 'id598116103', 'app-name': 'CNKI手机知网-海量、权威的知识资源尽在掌握', 'version-count': 25, 'days-per-version': 35.833333333333336, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id996866372', 'app-name': '天天快报 - 腾讯兴趣阅读平台', 'version-count': 25, 'days-per-version': 11.375, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id299853944', 'app-name': '新浪新闻-热门新闻头条资讯抢先看', 'version-count': 25, 'days-per-version': 10.791666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id895374634', 'app-name': '闪送-1小时同城快递，更快更安全', 'version-count': 25, 'days-per-version': 19.791666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id1207701288', 'app-name': '葫芦侠-游戏社区', 'version-count': 21, 'days-per-version': 24.75, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 2}
+{'id': 'id1229566596', 'app-name': '宝宝玩英语-专注幼儿英语早教启蒙', 'version-count': 25, 'days-per-version': 9.791666666666666, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id911130812', 'app-name': 'Nike SNKRS', 'version-count': 25, 'days-per-version': 22.791666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 2}
+{'id': 'id384399758', 'app-name': '易车-专业的汽车服务之家app', 'version-count': 25, 'days-per-version': 13.375, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 2}
+{'id': 'id1381206010', 'app-name': 'Enlight Pixaloop', 'version-count': 19, 'days-per-version': 12.055555555555555, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 2}
+{'id': 'id1190750607', 'app-name': '微贷-7年老品牌信用贷款平台', 'version-count': 25, 'days-per-version': 16.958333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 2}
+{'id': 'id861891048', 'app-name': '探探－超火爆社交App', 'version-count': 25, 'days-per-version': 7.541666666666667, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 2}
+{'id': 'id906995758', 'app-name': '小猿搜题 - 拍一下就学会', 'version-count': 25, 'days-per-version': 11.958333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id413971331', 'app-name': 'iZip - Zip RAR 压缩、解压缩工具', 'version-count': 25, 'days-per-version': 28.791666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 2}
+{'id': 'id507161324', 'app-name': '饿了么-外卖订餐,美食30分钟到家', 'version-count': 25, 'days-per-version': 9.541666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 2}
+{'id': 'id1034208598', 'app-name': '曹操专车', 'version-count': 25, 'days-per-version': 14.625, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id1076798292', 'app-name': 'TutorABC英语外教（vipabc）—让口语更地道', 'version-count': 25, 'days-per-version': 13.291666666666666, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 2}
+{'id': 'id1076275012', 'app-name': '给你花-分期贷款借款APP', 'version-count': 25, 'days-per-version': 42.208333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 2}
+{'id': 'id1198450147', 'app-name': 'vipJr（家长端）- 青少儿在线教育', 'version-count': 25, 'days-per-version': 21.958333333333332, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id1063270170', 'app-name': '店长直聘-兼职求职找工作找平台', 'version-count': 25, 'days-per-version': 18.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id1163980954', 'app-name': 'Mori手帐 - 记录精致生活的日记账本', 'version-count': 25, 'days-per-version': 14.625, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 2}
+{'id': 'id1326713123', 'app-name': '拼车-拼车网', 'version-count': 25, 'days-per-version': 13.125, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id1407163092', 'app-name': '小说阅读器-百万追书小说大全', 'version-count': 25, 'days-per-version': 7.833333333333333, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id415606289', 'app-name': '安居客-二手房新房,租房买房找房平台', 'version-count': 25, 'days-per-version': 13.333333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id919503025', 'app-name': '掌上道聚城', 'version-count': 25, 'days-per-version': 27.625, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 2}
+{'id': 'id1086047750', 'app-name': '火山小视频 - 就是好看', 'version-count': 25, 'days-per-version': 11.458333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 2}
+{'id': 'id1423061888', 'app-name': '皮皮搞笑-搞笑段子图片短视频社区', 'version-count': 10, 'days-per-version': 16.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 2}
+{'id': 'id1016323413', 'app-name': '得到-知识就在得到', 'version-count': 25, 'days-per-version': 16.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id952059546', 'app-name': '微信读书', 'version-count': 25, 'days-per-version': 14.666666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id955253735', 'app-name': 'Faceu激萌-拍出新年好运气', 'version-count': 25, 'days-per-version': 8.125, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 2}
+{'id': 'id509885060', 'app-name': '唱吧-高人气手机KTV', 'version-count': 25, 'days-per-version': 14.583333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id1410120498', 'app-name': '今日头条极速版', 'version-count': 12, 'days-per-version': 10.363636363636363, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 2}
+{'id': 'id965789238', 'app-name': '网易考拉—就像你的网上免税店', 'version-count': 25, 'days-per-version': 11.125, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id973366293', 'app-name': '蜜芽宝贝-进口母婴正品特卖商城', 'version-count': 25, 'days-per-version': 10.208333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 2}
+{'id': 'id951610982', 'app-name': '菜鸟裹裹-快递轻松查寄取', 'version-count': 25, 'days-per-version': 18.791666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id1410554544', 'app-name': '豆豆钱-专业版', 'version-count': 19, 'days-per-version': 9.055555555555555, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 2}
+{'id': 'id523063187', 'app-name': '宝宝树孕育-妈妈备孕怀孕伴侣和母婴育儿助手', 'version-count': 25, 'days-per-version': 11.125, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id518966501', 'app-name': '手机天猫-理想生活上天猫', 'version-count': 25, 'days-per-version': 19.625, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 2}
+{'id': 'id1034388318', 'app-name': '美册音乐相册-专注短视频编辑剪辑制作软件', 'version-count': 25, 'days-per-version': 9.625, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 2}
+{'id': 'id1242689729', 'app-name': '番茄ToDo-极简高效番茄钟', 'version-count': 25, 'days-per-version': 12.833333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 2}
+{'id': 'id768082524', 'app-name': '叮咚买菜 - 29分钟鲜到鲜得', 'version-count': 25, 'days-per-version': 9.958333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 2}
+{'id': 'id1339537083', 'app-name': '微鲤看看 - 生活社区和身边热点头条资讯抢先看', 'version-count': 14, 'days-per-version': 18.692307692307693, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 2}
+{'id': 'id1204082699', 'app-name': '榛果民宿-美团旗下民宿短租住宿平台', 'version-count': 25, 'days-per-version': 5.625, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 2}
+{'id': 'id494514224', 'app-name': '网易LOFTER-让兴趣，更有趣', 'version-count': 25, 'days-per-version': 21.791666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id875177200', 'app-name': '识货-运动潮流的好物和好价', 'version-count': 25, 'days-per-version': 11.958333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 2}
+{'id': 'id1212220023', 'app-name': '安全教育平台', 'version-count': 25, 'days-per-version': 25.083333333333332, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 2}
+{'id': 'id1153242305', 'app-name': 'Biu神器-朋友圈抖音快手特效视频一键生成', 'version-count': 25, 'days-per-version': 16.375, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 2}
+{'id': 'id689941435', 'app-name': '搜狗阅读-追书必备有声小说阅读神器', 'version-count': 25, 'days-per-version': 12.458333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 2}
+{'id': 'id327313778', 'app-name': '熊猫看书-小说离线追书神器', 'version-count': 25, 'days-per-version': 24.166666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 2}
+{'id': 'id1424051588', 'app-name': '小说大全-畅读全本快读小说大全小说阅读', 'version-count': 12, 'days-per-version': 14.0, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 2}
+{'id': 'id615961912', 'app-name': '陆金所-陆金所控股旗下金融财富管理平台', 'version-count': 25, 'days-per-version': 23.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id393765873', 'app-name': '爱奇艺-皓镧传独播', 'version-count': 25, 'days-per-version': 17.375, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1208353224', 'app-name': '小象优品-比价分期，折扣优选App', 'version-count': 25, 'days-per-version': 11.0, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id1002355194', 'app-name': '转转二手交易网-一个帮你赚钱的网站', 'version-count': 25, 'days-per-version': 10.833333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id615187629', 'app-name': '拼立得 - 美图拼图相机', 'version-count': 25, 'days-per-version': 34.291666666666664, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id1425740176', 'app-name': '熊猫抓娃娃-超强抓力娃娃机口红机', 'version-count': 13, 'days-per-version': 14.0, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1203189645', 'app-name': '伴鱼绘本-少儿英语配音儿童故事大全', 'version-count': 25, 'days-per-version': 5.25, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 1}
+{'id': 'id1247890676', 'app-name': '易通行', 'version-count': 23, 'days-per-version': 23.727272727272727, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1180877789', 'app-name': '万顺叫车', 'version-count': 25, 'days-per-version': 24.333333333333332, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id897856006', 'app-name': '木鸟短租-民宿,日租房,旅游住宿', 'version-count': 25, 'days-per-version': 16.708333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id609377731', 'app-name': '玩吧 - 边玩边聊语音交友', 'version-count': 25, 'days-per-version': 15.833333333333334, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1211656839', 'app-name': '找到-职场人脉拓展平台', 'version-count': 25, 'days-per-version': 13.291666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id518566498', 'app-name': '江苏银行手机银行', 'version-count': 25, 'days-per-version': 30.208333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id598541783', 'app-name': '扇贝阅读 - 每日英语新闻精选英文电子书', 'version-count': 25, 'days-per-version': 19.125, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id331259725', 'app-name': '央视影音-新闻体育人文影视高清平台', 'version-count': 25, 'days-per-version': 19.666666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id452186370', 'app-name': '百度地图-科技让出行更简单', 'version-count': 25, 'days-per-version': 18.125, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1407731945', 'app-name': '氧气相机-拍出呼吸感', 'version-count': 18, 'days-per-version': 9.529411764705882, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id1165227346', 'app-name': '哈啰出行-哈啰顺风车主招募', 'version-count': 25, 'days-per-version': 9.958333333333334, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 1}
+{'id': 'id964074019', 'app-name': 'Finger-吉他,唱歌教学软件', 'version-count': 25, 'days-per-version': 21.291666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id522700349', 'app-name': '腾讯微云-智能网盘', 'version-count': 25, 'days-per-version': 17.166666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1077639257', 'app-name': '万门大学-大学职场考试就业必备', 'version-count': 25, 'days-per-version': 25.958333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1092031003', 'app-name': '好看视频-搞笑娱乐生活短视频', 'version-count': 25, 'days-per-version': 12.041666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id445573854', 'app-name': '当当-购物享当当', 'version-count': 25, 'days-per-version': 10.375, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id1354833114', 'app-name': '喝水提醒-健康饮水打卡助手', 'version-count': 19, 'days-per-version': 17.77777777777778, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1057093244', 'app-name': '租房 - 个人房源房东直租拎包入住', 'version-count': 10, 'days-per-version': 111.44444444444444, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id803781859', 'app-name': '作业帮-中小学搜题答疑辅导利器', 'version-count': 25, 'days-per-version': 10.833333333333334, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 1}
+{'id': 'id990531994', 'app-name': '瓜子二手车直卖网-二手车卖车买车交易平台', 'version-count': 25, 'days-per-version': 10.416666666666666, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 1}
+{'id': 'id533415763', 'app-name': '堆糖 - 美好生活研究所', 'version-count': 25, 'days-per-version': 18.375, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1079313757', 'app-name': '兴趣部落-8亿人的兴趣交友社区', 'version-count': 22, 'days-per-version': 50.666666666666664, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id333206289', 'app-name': '支付宝 - 让生活更简单', 'version-count': 25, 'days-per-version': 27.041666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id985919623', 'app-name': '云集 - 购物享受批发价', 'version-count': 25, 'days-per-version': 9.958333333333334, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1290045795', 'app-name': '快剪辑', 'version-count': 25, 'days-per-version': 7.958333333333333, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 1}
+{'id': 'id913947918', 'app-name': 'MIX滤镜大师 - 创意无限的图像编辑与海报定制', 'version-count': 25, 'days-per-version': 21.666666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id963627758', 'app-name': '悟空遥控器--智能电视必备手机遥控器', 'version-count': 25, 'days-per-version': 23.083333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id938688461', 'app-name': '小米运动', 'version-count': 25, 'days-per-version': 17.416666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id458318329', 'app-name': '腾讯视频-怒晴湘西独播', 'version-count': 25, 'days-per-version': 15.0, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id917236063', 'app-name': '讯飞输入法-语音输入和斗图手写输入法', 'version-count': 25, 'days-per-version': 36.75, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id434209233', 'app-name': '墨迹天气 - 关心天气更关心你', 'version-count': 25, 'days-per-version': 11.958333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id920728033', 'app-name': '手机克隆Phone Clone', 'version-count': 20, 'days-per-version': 78.57894736842105, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id1078501077', 'app-name': '米兔手表-可以打电话的儿童手表', 'version-count': 25, 'days-per-version': 38.791666666666664, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id889835515', 'app-name': '出国翻译官-真人在线语音视频翻译', 'version-count': 25, 'days-per-version': 13.416666666666666, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1321807665', 'app-name': '聊呗 - 熟人之间的娱乐沟通', 'version-count': 23, 'days-per-version': 15.818181818181818, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id951308995', 'app-name': '看准 - 找工作求职招聘必备神器', 'version-count': 25, 'days-per-version': 25.666666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1325481372', 'app-name': '华为运动健康', 'version-count': 17, 'days-per-version': 18.875, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id531059691', 'app-name': '扇贝单词 - 学英语背单词的好方法都在这里', 'version-count': 25, 'days-per-version': 11.0, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id585027354', 'app-name': 'Google 地图', 'version-count': 25, 'days-per-version': 13.791666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id1097445594', 'app-name': '恢复大师', 'version-count': 18, 'days-per-version': 60.529411764705884, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1114459949', 'app-name': 'VIPKID英语-在线少儿英语外教1对1', 'version-count': 25, 'days-per-version': 14.916666666666666, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1329385145', 'app-name': '全民小视频', 'version-count': 25, 'days-per-version': 15.333333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1243387705', 'app-name': '美团打车-品质安全快车专车打车软件', 'version-count': 25, 'days-per-version': 13.875, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id973337925', 'app-name': '美妆相机', 'version-count': 25, 'days-per-version': 11.083333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id908623207', 'app-name': '宜人财富-宜人贷旗下财富管理平台', 'version-count': 25, 'days-per-version': 20.25, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id587176822', 'app-name': '黄油相机 - 最近滤镜挺美的', 'version-count': 25, 'days-per-version': 12.25, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id586871187', 'app-name': 'UC浏览器-新春小视频和头条抢先看', 'version-count': 25, 'days-per-version': 14.958333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id906611031', 'app-name': '分期乐-年轻人的分期购物,极速借款平台', 'version-count': 25, 'days-per-version': 26.041666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id588287777', 'app-name': '百度视频-电影电视剧综艺播放器', 'version-count': 25, 'days-per-version': 19.875, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id944665061', 'app-name': 'Pro KnockOut- 专业智能抠图p图神器', 'version-count': 23, 'days-per-version': 69.31818181818181, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1321790973', 'app-name': '好奇怪 - 创意壁纸头像动图', 'version-count': 20, 'days-per-version': 20.894736842105264, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id563467866', 'app-name': '穷游—查旅游攻略，订机票酒店', 'version-count': 25, 'days-per-version': 16.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id474286241', 'app-name': 'WeDrum - 架子鼓 鼓组 音乐游戏 和 节奏游戏', 'version-count': 25, 'days-per-version': 31.041666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1384094747', 'app-name': '实时公交-全国公交车实时查询', 'version-count': 19, 'days-per-version': 14.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id569387346', 'app-name': '腾讯动漫-二次元漫画阅读平台', 'version-count': 25, 'days-per-version': 20.833333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id625077646', 'app-name': '人民日报 - 有品质的新闻', 'version-count': 25, 'days-per-version': 24.166666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id523091708', 'app-name': '民生银行手机银行', 'version-count': 25, 'days-per-version': 46.708333333333336, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id896914152', 'app-name': 'K米-全国KTV乐享欢聚', 'version-count': 25, 'days-per-version': 15.958333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id899008001', 'app-name': '英语趣配音-看视频学英语', 'version-count': 25, 'days-per-version': 21.375, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id481587094', 'app-name': '秒拍-超超超超好看', 'version-count': 25, 'days-per-version': 13.125, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 1}
+{'id': 'id453480684', 'app-name': '咕咚-跑步健身训练课程', 'version-count': 25, 'days-per-version': 8.833333333333334, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 1}
+{'id': 'id492083651', 'app-name': '乐天免税店 (Global Ver.)', 'version-count': 25, 'days-per-version': 27.166666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1024958046', 'app-name': '小米商城-智能产品好到不用挑', 'version-count': 25, 'days-per-version': 15.291666666666666, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id524690790', 'app-name': '小恩爱-情侣必备', 'version-count': 25, 'days-per-version': 22.75, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1147452377', 'app-name': '和家亲-让智能设备连接更便捷', 'version-count': 25, 'days-per-version': 21.291666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1061859052', 'app-name': 'intoLive - 实况壁纸制作器', 'version-count': 25, 'days-per-version': 40.833333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id1055593695', 'app-name': '轻松抠图: p图修图美图.图片合成神器', 'version-count': 20, 'days-per-version': 58.1578947368421, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id1168490851', 'app-name': '咪咕爱看-电视剧综艺直播', 'version-count': 25, 'days-per-version': 23.083333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1216109746', 'app-name': '微商相册-方便你我的团队共享云相册', 'version-count': 25, 'days-per-version': 20.041666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1255135442', 'app-name': 'Enlight Videoleap', 'version-count': 25, 'days-per-version': 19.25, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id361964929', 'app-name': '中国国航-凤凰知音会员的行程管家', 'version-count': 25, 'days-per-version': 18.041666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id571195405', 'app-name': '萤石云视频', 'version-count': 25, 'days-per-version': 27.041666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id415872960', 'app-name': '广发银行手机银行', 'version-count': 25, 'days-per-version': 39.333333333333336, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1204726898', 'app-name': 'Potato Chat', 'version-count': 25, 'days-per-version': 17.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id962223967', 'app-name': '斗牛(原EYEE蜂潮) - 潮流球鞋平台', 'version-count': 25, 'days-per-version': 13.333333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id547166701', 'app-name': '百度网盘', 'version-count': 25, 'days-per-version': 14.125, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id387682726', 'app-name': '淘宝 - 移动生活社区', 'version-count': 25, 'days-per-version': 20.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id544599560', 'app-name': '微爱-情侣手机必备', 'version-count': 25, 'days-per-version': 29.25, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id1126393139', 'app-name': '谁是狼人-一场谎言与推理的对抗', 'version-count': 25, 'days-per-version': 20.541666666666668, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 1}
+{'id': 'id1042182109', 'app-name': '用钱宝 - 30000元以下不求人', 'version-count': 25, 'days-per-version': 25.791666666666668, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1438377151', 'app-name': '酷音铃声 - 视频彩铃制作工具', 'version-count': 16, 'days-per-version': 7.466666666666667, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1103556579', 'app-name': '贷款大师-手机高效借款平台', 'version-count': 25, 'days-per-version': 29.541666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id538248967', 'app-name': '暴风影音-BaoFeng Player', 'version-count': 25, 'days-per-version': 28.291666666666668, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id888483369', 'app-name': '墨墨背单词 | 四六级考研等英语词汇记忆', 'version-count': 25, 'days-per-version': 36.208333333333336, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1400607221', 'app-name': '米读小说 - 热门小说阅读器', 'version-count': 23, 'days-per-version': 9.636363636363637, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1142151719', 'app-name': '一点万象-精彩不打烊', 'version-count': 25, 'days-per-version': 14.5, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id802041071', 'app-name': '超级手机管家 - 超实用的手机管理清理大师', 'version-count': 25, 'days-per-version': 41.958333333333336, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1195487469', 'app-name': '猫饼ö，超简单的vlog工具', 'version-count': 25, 'days-per-version': 21.708333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1175878538', 'app-name': '长图拼接-轻松拼截屏', 'version-count': 25, 'days-per-version': 18.0, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id594402673', 'app-name': '婚礼纪-结婚就用婚礼纪', 'version-count': 25, 'days-per-version': 11.5, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id334876990', 'app-name': 'GUCCI', 'version-count': 25, 'days-per-version': 23.375, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1139101653', 'app-name': '腾讯相册管家 - 记录生活', 'version-count': 25, 'days-per-version': 11.875, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id1074632701', 'app-name': '苏宁小店-生鲜美味极速达', 'version-count': 25, 'days-per-version': 19.375, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1217374522', 'app-name': '连信-聊天交友软件', 'version-count': 25, 'days-per-version': 17.416666666666668, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1259010187', 'app-name': '点点 - 让生活，好一点', 'version-count': 12, 'days-per-version': 11.727272727272727, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id988396858', 'app-name': '花椒直播-高颜美女帅哥都在玩的直播平台', 'version-count': 25, 'days-per-version': 8.708333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 1}
+{'id': 'id865960661', 'app-name': '影视大全-360旗下高清看片神器', 'version-count': 25, 'days-per-version': 18.916666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1138236198', 'app-name': '酷狗铃声 手机铃声直接设置', 'version-count': 24, 'days-per-version': 38.43478260869565, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id874837944', 'app-name': '爱奇艺奇巴布-儿童成长必备APP', 'version-count': 25, 'days-per-version': 22.041666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id958907096', 'app-name': '网易漫画-漫画多多多到看不完', 'version-count': 25, 'days-per-version': 20.541666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1271680206', 'app-name': '人人车二手车-严选商城升级二手车直卖模式', 'version-count': 25, 'days-per-version': 22.083333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1369708325', 'app-name': '高佣联盟', 'version-count': 25, 'days-per-version': 12.041666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id387109554', 'app-name': 'QQ安全中心', 'version-count': 25, 'days-per-version': 66.79166666666667, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id930368978', 'app-name': '钉钉', 'version-count': 25, 'days-per-version': 15.375, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1058747457', 'app-name': '中华美食-宝宝巴士', 'version-count': 17, 'days-per-version': 52.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id1424178757', 'app-name': 'Plant Nanny² 植物保姆²', 'version-count': 13, 'days-per-version': 8.25, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id966807283', 'app-name': '晋江小说阅读', 'version-count': 25, 'days-per-version': 23.708333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1398138359', 'app-name': 'Q房真房源-二手房新房租房,专业找房大平台', 'version-count': 11, 'days-per-version': 21.7, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id923920872', 'app-name': '平安好医生-在线咨询挂号购药平台', 'version-count': 25, 'days-per-version': 12.583333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1098542282', 'app-name': '安逸花-分期贷款闪电借款平台', 'version-count': 25, 'days-per-version': 16.666666666666668, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id956403465', 'app-name': '太平洋保险—在你身边', 'version-count': 25, 'days-per-version': 22.083333333333332, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1102665570', 'app-name': '北京交警', 'version-count': 20, 'days-per-version': 32.1578947368421, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id1121886234', 'app-name': '广发银行信用卡发现精彩——开启信用消费新生活', 'version-count': 25, 'days-per-version': 23.75, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1094212040', 'app-name': '一闪 - VLOG 剪辑与视频滤镜', 'version-count': 25, 'days-per-version': 24.333333333333332, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 1}
+{'id': 'id1230394683', 'app-name': 'Photo Retouch:去水印修图软件', 'version-count': 11, 'days-per-version': 64.6, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id435921465', 'app-name': '首旅如家', 'version-count': 25, 'days-per-version': 31.375, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1309415987', 'app-name': '好分期-年轻人的信用购物app', 'version-count': 25, 'days-per-version': 15.666666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1296796112', 'app-name': 'Barbie Dreamhouse Adventures', 'version-count': 11, 'days-per-version': 23.5, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id411654863', 'app-name': '网易彩票-双色球体彩竞彩预测投注开奖', 'version-count': 25, 'days-per-version': 26.208333333333332, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id576337924', 'app-name': '有道翻译官-107种语言翻译', 'version-count': 25, 'days-per-version': 19.291666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1102671381', 'app-name': '拾柒 - 把生活做成书', 'version-count': 25, 'days-per-version': 11.708333333333334, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1101673632', 'app-name': '中信证券信e投', 'version-count': 25, 'days-per-version': 19.083333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id917629382', 'app-name': '最美证件照 - 自带美化功能的证件照制作软件', 'version-count': 25, 'days-per-version': 38.833333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id507097717', 'app-name': '阿里巴巴(1688)-买卖家货源采购的专业批发市场', 'version-count': 25, 'days-per-version': 12.75, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id439638720', 'app-name': '腾讯手机管家-电话短信防骚扰专家', 'version-count': 25, 'days-per-version': 32.083333333333336, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1113268900', 'app-name': '趣头条 - 头条新闻热点资讯阅读平台', 'version-count': 25, 'days-per-version': 22.791666666666668, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id517644732', 'app-name': '万达电影', 'version-count': 25, 'days-per-version': 39.25, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id406170251', 'app-name': '倒数日 · Days Matter', 'version-count': 25, 'days-per-version': 64.58333333333333, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1139733348', 'app-name': '洪恩识字 - 宇宙护卫队陪娃学汉字看绘本', 'version-count': 25, 'days-per-version': 16.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id591584458', 'app-name': '返利-官方正版，网购省钱优选', 'version-count': 25, 'days-per-version': 18.583333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id540679302', 'app-name': '每日瑜伽-你的专属瑜伽健身教练', 'version-count': 25, 'days-per-version': 13.125, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id869802614', 'app-name': '美团外卖商家版-管家后台', 'version-count': 25, 'days-per-version': 12.083333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id860384719', 'app-name': '微店 - 逛口碑小店，识高手店主', 'version-count': 25, 'days-per-version': 9.166666666666666, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 1}
+{'id': 'id415206413', 'app-name': '汽车报价-汽车之家旗下专业买车平台', 'version-count': 25, 'days-per-version': 14.958333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id625009752', 'app-name': '比邻-超火爆语音交友app', 'version-count': 25, 'days-per-version': 15.875, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1044283059', 'app-name': '拼多多 - 3亿人都在拼的购物App', 'version-count': 25, 'days-per-version': 5.208333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 1}
+{'id': 'id372353614', 'app-name': '随手记账-记账理财财务专业软件', 'version-count': 25, 'days-per-version': 16.875, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id570608623', 'app-name': '腾讯体育-NBA英超CBA高清直播', 'version-count': 25, 'days-per-version': 17.916666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1229469444', 'app-name': '拼多多商家版-手机1秒开店', 'version-count': 25, 'days-per-version': 8.958333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 1}
+{'id': 'id559977766', 'app-name': '懒人听书-热门有声小说相声评书电台', 'version-count': 25, 'days-per-version': 25.166666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id419275564', 'app-name': '东方航空-机票预订航班查询', 'version-count': 25, 'days-per-version': 17.125, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1138236968', 'app-name': '读秒钱包- 智能信贷解决方案', 'version-count': 21, 'days-per-version': 40.8, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 1}
+{'id': 'id1147017306', 'app-name': '野兽派-像野兽一样去爱,去生活', 'version-count': 25, 'days-per-version': 13.583333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id891640660', 'app-name': '简拼-文艺范视频拼图 & 视频编辑剪辑制作', 'version-count': 25, 'days-per-version': 30.458333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id905759618', 'app-name': 'FancyDays - 倒数重要的日子', 'version-count': 25, 'days-per-version': 53.458333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id1288723196', 'app-name': 'Microsoft Edge', 'version-count': 25, 'days-per-version': 13.791666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id446745748', 'app-name': '豆瓣电影-全国影讯,优惠电影票', 'version-count': 25, 'days-per-version': 49.208333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id929567933', 'app-name': '达达-同城跑腿代买平台', 'version-count': 25, 'days-per-version': 7.0, 'days-per-version-last-6-month': 7.5, 'emergency-release-count': 1}
+{'id': 'id1055916992', 'app-name': '马上金融-信用贷款免息分期借钱神器', 'version-count': 25, 'days-per-version': 14.666666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1347070561', 'app-name': '很皮语音包-开黑聊天语音包变声器', 'version-count': 20, 'days-per-version': 18.473684210526315, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id446332125', 'app-name': '江苏移动掌上营业厅', 'version-count': 25, 'days-per-version': 35.708333333333336, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1159233677', 'app-name': '平安健康-智慧健康保障引领者', 'version-count': 25, 'days-per-version': 24.291666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1013727678', 'app-name': '石墨文档', 'version-count': 25, 'days-per-version': 9.625, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id1087897068', 'app-name': '企业微信', 'version-count': 25, 'days-per-version': 15.583333333333334, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1204634317', 'app-name': '大润发优鲜-新用户可领取50元大礼包', 'version-count': 19, 'days-per-version': 32.05555555555556, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1244505010', 'app-name': '小黑盒 for Steam 绝地求生战绩查询', 'version-count': 25, 'days-per-version': 12.166666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1282304398', 'app-name': '趣追书-热门网络文学大全的小说阅读器', 'version-count': 14, 'days-per-version': 37.38461538461539, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id991522182', 'app-name': 'UU跑腿', 'version-count': 25, 'days-per-version': 26.791666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id927759827', 'app-name': 'EVCARD-共享电动汽车分时租车', 'version-count': 25, 'days-per-version': 21.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1048918751', 'app-name': '天眼查—全国企业信用信息查询', 'version-count': 25, 'days-per-version': 23.375, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id480079300', 'app-name': '58同城-找工作招聘求职租房网', 'version-count': 25, 'days-per-version': 12.916666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id590217303', 'app-name': '千牛–卖家移动工作台', 'version-count': 25, 'days-per-version': 14.208333333333334, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1006637877', 'app-name': '儿歌点点 - 全球儿童动画精选早教儿歌故事', 'version-count': 25, 'days-per-version': 24.125, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id370139302', 'app-name': 'QQ浏览器-王卡免流量看短视频直播', 'version-count': 25, 'days-per-version': 12.25, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id952694580', 'app-name': 'Keep - 跑步健身计步瑜伽', 'version-count': 25, 'days-per-version': 14.875, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id401626263', 'app-name': 'Airbnb爱彼迎', 'version-count': 25, 'days-per-version': 6.958333333333333, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 1}
+{'id': 'id1250285750', 'app-name': '醒购 - 潮流品牌特卖的网购商城', 'version-count': 25, 'days-per-version': 15.041666666666666, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id888237539', 'app-name': '简书-创作你的创作', 'version-count': 25, 'days-per-version': 12.583333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id1116025300', 'app-name': '省钱快报', 'version-count': 25, 'days-per-version': 7.125, 'days-per-version-last-6-month': 7.5, 'emergency-release-count': 1}
+{'id': 'id1274910157', 'app-name': '大片 - 视频编辑器', 'version-count': 25, 'days-per-version': 10.166666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id1195860596', 'app-name': '快影-视频剪辑&视频编辑&视频制作', 'version-count': 25, 'days-per-version': 8.416666666666666, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 1}
+{'id': 'id975977198', 'app-name': '小米投屏神器', 'version-count': 25, 'days-per-version': 44.083333333333336, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id388627783', 'app-name': '扫描全能王- 文字识别翻译错题本CamScanner', 'version-count': 25, 'days-per-version': 21.5, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id863725496', 'app-name': '窝牛-你的装修设计顾问', 'version-count': 25, 'days-per-version': 13.291666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id432274380', 'app-name': '知乎 - 有问题，上知乎', 'version-count': 25, 'days-per-version': 7.333333333333333, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 1}
+{'id': 'id1314380670', 'app-name': '钱站-钱站官方版', 'version-count': 14, 'days-per-version': 27.692307692307693, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1370819508', 'app-name': '58同镇-本地交友招聘便民信息平台', 'version-count': 12, 'days-per-version': 26.454545454545453, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id593469119', 'app-name': '优衣库掌上旗舰店 一键随心购', 'version-count': 25, 'days-per-version': 38.166666666666664, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1172713884', 'app-name': '记账城市 - 用每笔收支，建造你的城市', 'version-count': 25, 'days-per-version': 13.416666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1020547107', 'app-name': '猫眼专业版-电影票房影人合作', 'version-count': 25, 'days-per-version': 21.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id395898626', 'app-name': '土豆视频-短视频&影视剧刷不停', 'version-count': 25, 'days-per-version': 19.75, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id1053800662', 'app-name': 'WiFi万能密码 -wi-fi无线网络密码管家', 'version-count': 25, 'days-per-version': 26.583333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1120924048', 'app-name': '环球捕手 - 带你吃遍全球', 'version-count': 25, 'days-per-version': 18.041666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1039749242', 'app-name': '知识星球 - 连接一千位铁杆粉丝', 'version-count': 25, 'days-per-version': 8.208333333333334, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 1}
+{'id': 'id878075397', 'app-name': '企查查-全国企业信用信息征信查询平台', 'version-count': 25, 'days-per-version': 25.5, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1245063594', 'app-name': '淘宝主播', 'version-count': 22, 'days-per-version': 27.0, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id978646727', 'app-name': '企鹅FM「陪伴你的小说电台」', 'version-count': 25, 'days-per-version': 24.333333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id346703830', 'app-name': '时光网-特价电影票预订平台', 'version-count': 25, 'days-per-version': 21.25, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1154042584', 'app-name': '恒易贷-恒昌贷款借钱信用借贷借款平台', 'version-count': 25, 'days-per-version': 25.125, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id456933691', 'app-name': 'CAD看图王-（原CAD手机看图）支持dwg、天正快速看图', 'version-count': 25, 'days-per-version': 33.5, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id415424368', 'app-name': '网易公开课 - 在线学习名校课程', 'version-count': 25, 'days-per-version': 17.833333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1037589370', 'app-name': '无忧行-新人送香港流量包', 'version-count': 25, 'days-per-version': 22.625, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id999773808', 'app-name': '皇包车旅行—境外中文接送机包车游', 'version-count': 25, 'days-per-version': 19.458333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id983337376', 'app-name': '第一弹-二次元动漫画社区', 'version-count': 25, 'days-per-version': 8.083333333333334, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 1}
+{'id': 'id1192163634', 'app-name': '玖富万卡-低息借款贷款平台', 'version-count': 25, 'days-per-version': 15.958333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id475966832', 'app-name': '同程旅游-订机票火车票酒店门票', 'version-count': 25, 'days-per-version': 17.166666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id477537958', 'app-name': 'Microsoft OneDrive', 'version-count': 25, 'days-per-version': 7.583333333333333, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 1}
+{'id': 'id342576766', 'app-name': '亚马逊中国 一站放心购全球', 'version-count': 25, 'days-per-version': 19.041666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id353115739', 'app-name': '网易有道词典-收录日汉牛津等权威词典', 'version-count': 25, 'days-per-version': 24.041666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id1257358149', 'app-name': '段友-搞笑内涵视频图片段子', 'version-count': 25, 'days-per-version': 10.333333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id1257627631', 'app-name': '够花-小额信用分期借钱贷款app', 'version-count': 25, 'days-per-version': 20.708333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1262351972', 'app-name': '蜜源', 'version-count': 23, 'days-per-version': 23.818181818181817, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id913817574', 'app-name': '家长通-专业家庭教育平台', 'version-count': 25, 'days-per-version': 10.583333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 1}
+{'id': 'id1276104080', 'app-name': '快点投屏', 'version-count': 25, 'days-per-version': 20.25, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id350962117', 'app-name': '微博', 'version-count': 25, 'days-per-version': 8.375, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 1}
+{'id': 'id1244627368', 'app-name': '街电 - 永不断电', 'version-count': 25, 'days-per-version': 16.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id547951480', 'app-name': 'ZARA', 'version-count': 25, 'days-per-version': 8.625, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 1}
+{'id': 'id1381319326', 'app-name': '翻译全能王-随身拍照翻译智能语音翻译官', 'version-count': 10, 'days-per-version': 26.666666666666668, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 1}
+{'id': 'id1350301428', 'app-name': 'ZEPETO', 'version-count': 21, 'days-per-version': 16.8, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id1232131998', 'app-name': '懂车帝 - 汽车新闻资讯和购车买车之家', 'version-count': 25, 'days-per-version': 7.0, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 1}
+{'id': 'id399608199', 'app-name': '中国银行手机银行', 'version-count': 25, 'days-per-version': 20.166666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1054861613', 'app-name': '摩天轮票务-演唱会门票话剧音乐节赛事大卖', 'version-count': 25, 'days-per-version': 9.708333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id447313708', 'app-name': '途牛旅游-让旅游更简单', 'version-count': 25, 'days-per-version': 9.583333333333334, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 1}
+{'id': 'id1152363753', 'app-name': '凤凰新闻(探索版)-海量新闻和视频资讯', 'version-count': 25, 'days-per-version': 19.125, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id960158896', 'app-name': '每日优鲜-春节不打烊', 'version-count': 25, 'days-per-version': 12.5, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id527809600', 'app-name': '大姨妈-月经期助手', 'version-count': 25, 'days-per-version': 24.083333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id388932995', 'app-name': '赶集网-找工作招聘求职兼职人才网', 'version-count': 25, 'days-per-version': 25.791666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1392803612', 'app-name': '一点英语-刷视频学英语', 'version-count': 18, 'days-per-version': 14.117647058823529, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id1078506545', 'app-name': '五十音图-学日语入门零基础必备', 'version-count': 25, 'days-per-version': 32.125, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id1097492828', 'app-name': '腾讯NOW直播-短视频交友直播平台', 'version-count': 25, 'days-per-version': 17.166666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id527588389', 'app-name': 'GuitarTuna: 吉他调音器', 'version-count': 25, 'days-per-version': 73.0, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1061534032', 'app-name': '无他相机-拍好不用P', 'version-count': 25, 'days-per-version': 18.916666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id556808349', 'app-name': '华住会—特价酒店住宿预订必备', 'version-count': 25, 'days-per-version': 18.083333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1246090490', 'app-name': '玲珑加速器 - 畅玩全球手游', 'version-count': 12, 'days-per-version': 49.18181818181818, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 1}
+{'id': 'id430814532', 'app-name': '一嗨租车-租车免押金', 'version-count': 25, 'days-per-version': 17.916666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1160172628', 'app-name': '夸克-阿里旗下高速智能浏览器', 'version-count': 25, 'days-per-version': 21.458333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id863882795', 'app-name': '斗鱼直播-热门手游高清在线直播', 'version-count': 25, 'days-per-version': 10.666666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id1114767733', 'app-name': '壁纸 ： 高清手机主题桌面动态墙纸', 'version-count': 25, 'days-per-version': 32.208333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id961227503', 'app-name': '烧杯', 'version-count': 14, 'days-per-version': 84.84615384615384, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id385919493', 'app-name': '汽车之家-3亿家人都在用的汽车App', 'version-count': 25, 'days-per-version': 11.75, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 1}
+{'id': 'id944094492', 'app-name': '藏书馆-读书人的阅读乌托邦', 'version-count': 25, 'days-per-version': 23.041666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id1057866090', 'app-name': '同桌-连麦聊天约玩社交APP', 'version-count': 25, 'days-per-version': 40.25, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id1202750238', 'app-name': 'Metro大都会', 'version-count': 25, 'days-per-version': 22.875, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id962767976', 'app-name': '顺风车-拼车出行打车软件', 'version-count': 25, 'days-per-version': 16.291666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id911261462', 'app-name': '丁香医生—健康问题在线咨询医生', 'version-count': 25, 'days-per-version': 7.541666666666667, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 1}
+{'id': 'id1196559922', 'app-name': '社保掌上通 - 个人医保养老查询管理', 'version-count': 25, 'days-per-version': 22.708333333333332, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id1356054761', 'app-name': '印象笔记', 'version-count': 18, 'days-per-version': 14.294117647058824, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1054598922', 'app-name': '麦当劳Pro', 'version-count': 25, 'days-per-version': 11.916666666666666, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id1241833105', 'app-name': '单创', 'version-count': 25, 'days-per-version': 10.916666666666666, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 1}
+{'id': 'id995158649', 'app-name': '开言英语 - 地道英语流利说', 'version-count': 25, 'days-per-version': 19.625, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 1}
+{'id': 'id760661078', 'app-name': '电视助手 - 手机投屏大师', 'version-count': 25, 'days-per-version': 51.666666666666664, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 1}
+{'id': 'id426340811', 'app-name': '百度文库-考试辅导作业题库大全', 'version-count': 25, 'days-per-version': 18.583333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id1071038870', 'app-name': '北京一卡通', 'version-count': 25, 'days-per-version': 32.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id467067151', 'app-name': '百度糯米-电影,美食', 'version-count': 25, 'days-per-version': 25.916666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 1}
+{'id': 'id575826903', 'app-name': '追书神器-全网更新最快的小说阅读器', 'version-count': 25, 'days-per-version': 10.25, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 1}
+{'id': 'id623158699', 'app-name': '会说话的金杰猫2', 'version-count': 21, 'days-per-version': 98.05, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 1}
+{'id': 'id455611831', 'app-name': '天气预报-PM2.5空气质量和污染指数报告', 'version-count': 25, 'days-per-version': 12.458333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 1}
+{'id': 'id952710115', 'app-name': '小猪—民宿短租酒店公寓，就找小猪', 'version-count': 25, 'days-per-version': 11.458333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 1}
+{'id': 'id1313658481', 'app-name': '百词斩爱阅读', 'version-count': 15, 'days-per-version': 21.285714285714285, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id1296749505', 'app-name': 'luckin coffee 瑞幸咖啡', 'version-count': 25, 'days-per-version': 18.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id895682747', 'app-name': '京东金融-188元白条新人礼', 'version-count': 25, 'days-per-version': 22.666666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id420858151', 'app-name': '旺信-阿里旺旺手机版', 'version-count': 25, 'days-per-version': 21.125, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id948600146', 'app-name': '美居-美好生活 智慧家居', 'version-count': 25, 'days-per-version': 25.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id1016820238', 'app-name': '招才猫直聘-58同城招聘商家版', 'version-count': 25, 'days-per-version': 15.25, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id992421775', 'app-name': 'Patternator 动态壁纸', 'version-count': 18, 'days-per-version': 42.411764705882355, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 1}
+{'id': 'id1286964732', 'app-name': '比心-1000万人都在用的陪练App', 'version-count': 15, 'days-per-version': 36.0, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 1}
+{'id': 'id1326101904', 'app-name': '小黑鱼-会员制购物旅行平台', 'version-count': 25, 'days-per-version': 14.041666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 1}
+{'id': 'id584660358', 'app-name': '粉笔-大学生考试就业必备', 'version-count': 25, 'days-per-version': 9.208333333333334, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 1}
+{'id': 'id529092160', 'app-name': '今日头条', 'version-count': 25, 'days-per-version': 13.875, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 1}
+{'id': 'id635206028', 'app-name': '沪江开心词场-背单词、学外语助手', 'version-count': 25, 'days-per-version': 12.041666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id1266194141', 'app-name': '华为智能家居', 'version-count': 25, 'days-per-version': 18.708333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 1}
+{'id': 'id907002334', 'app-name': '豆瓣', 'version-count': 25, 'days-per-version': 13.333333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id916139408', 'app-name': '百度输入法-语音输入法', 'version-count': 25, 'days-per-version': 41.083333333333336, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id714802729', 'app-name': '百度阅读-电子书看书阅读神器', 'version-count': 25, 'days-per-version': 16.625, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 1}
+{'id': 'id564818797', 'app-name': '铁路12306', 'version-count': 25, 'days-per-version': 75.08333333333333, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 1}
+{'id': 'id1400133654', 'app-name': '解压专家 - ZIP RAR 7Z 快速解压和压缩', 'version-count': 13, 'days-per-version': 17.416666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 1}
+{'id': 'id834465911', 'app-name': 'H&M App', 'version-count': 25, 'days-per-version': 18.791666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 1}
+{'id': 'id899247664', 'app-name': 'TestFlight', 'version-count': 25, 'days-per-version': 66.20833333333333, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id431620005', 'app-name': 'Skyscanner天巡旅行-全球机票酒店租车', 'version-count': 25, 'days-per-version': 7.791666666666667, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 0}
+{'id': 'id1007030042', 'app-name': '巴士管家-汽车票火车票预订平台', 'version-count': 25, 'days-per-version': 28.916666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id586447913', 'app-name': 'Microsoft Word', 'version-count': 25, 'days-per-version': 26.5, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1155901497', 'app-name': '斗图表情-斗图gif表情包制作神器', 'version-count': 16, 'days-per-version': 52.333333333333336, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id878783582', 'app-name': 'Adobe Lightroom CC', 'version-count': 25, 'days-per-version': 33.125, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1128289794', 'app-name': '花生地铁—过年有钱花！打开WiFi领红包', 'version-count': 25, 'days-per-version': 22.583333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id796440356', 'app-name': '团贷网-金融投资合规平台', 'version-count': 25, 'days-per-version': 22.541666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id1059274584', 'app-name': '一直播-明星直播交友软件', 'version-count': 25, 'days-per-version': 13.5, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id284882215', 'app-name': 'Facebook', 'version-count': 25, 'days-per-version': 7.916666666666667, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 0}
+{'id': 'id1030675668', 'app-name': '启信宝 - 全国企业信用信息工商查询', 'version-count': 25, 'days-per-version': 14.625, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id983488107', 'app-name': '拍拍贷借款-闪电借钱贷款平台', 'version-count': 25, 'days-per-version': 33.791666666666664, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id733144873', 'app-name': '秀色直播-美女帅哥真人视频聊天交友', 'version-count': 25, 'days-per-version': 38.25, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1096562466', 'app-name': '韩剧TV-追剧大本营', 'version-count': 25, 'days-per-version': 27.041666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id375380948', 'app-name': 'Apple Store', 'version-count': 25, 'days-per-version': 64.70833333333333, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id910260096', 'app-name': '浙里办-让你一次都不跑', 'version-count': 25, 'days-per-version': 36.208333333333336, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id495369748', 'app-name': 'Steam Mobile', 'version-count': 20, 'days-per-version': 84.15789473684211, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1084747109', 'app-name': '吾记 - 日记本·笔记本·记事本', 'version-count': 15, 'days-per-version': 68.78571428571429, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id493489515', 'app-name': '邮储手机银行', 'version-count': 25, 'days-per-version': 79.125, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id987381870', 'app-name': '育学园 - 崔玉涛医生权威怀孕育儿助手', 'version-count': 25, 'days-per-version': 14.958333333333334, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1281434850', 'app-name': '狼人杀-官方唯一正版', 'version-count': 15, 'days-per-version': 33.5, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id898243566', 'app-name': '浙江移动手机营业厅—10086掌上生活', 'version-count': 25, 'days-per-version': 54.5, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id577723645', 'app-name': '天天看电视直播', 'version-count': 20, 'days-per-version': 100.73684210526316, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id448165862', 'app-name': 'MOMO陌陌', 'version-count': 25, 'days-per-version': 13.541666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id367003839', 'app-name': 'Booking.com缤客 – 全球旅行优惠', 'version-count': 25, 'days-per-version': 11.708333333333334, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id878962716', 'app-name': '澎湃新闻-专注时政与思想的资讯阅读平台', 'version-count': 25, 'days-per-version': 26.458333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id787130974', 'app-name': '咪咕视频-CBA英超足球春晚季电视直播', 'version-count': 25, 'days-per-version': 32.916666666666664, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1004322269', 'app-name': '我爱我家-二手房新房，租房买房必备软件', 'version-count': 25, 'days-per-version': 14.833333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id453691481', 'app-name': '飞猪旅行', 'version-count': 25, 'days-per-version': 14.833333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id555615190', 'app-name': '小伴龙-儿童早教启蒙儿童教育', 'version-count': 25, 'days-per-version': 15.083333333333334, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id436957087', 'app-name': '搜狐新闻一头条新闻资讯和财经军事日报', 'version-count': 25, 'days-per-version': 22.916666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1026768962', 'app-name': '酷家乐装修(设计师版)', 'version-count': 25, 'days-per-version': 27.583333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id452176796', 'app-name': '蘑菇街-买衣服，先逛蘑菇街', 'version-count': 25, 'days-per-version': 15.166666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id1110653667', 'app-name': '长隆旅游', 'version-count': 25, 'days-per-version': 28.791666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id940562664', 'app-name': '货拉拉-拉货搬家的货运物流平台', 'version-count': 25, 'days-per-version': 26.833333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id423514795', 'app-name': '中国工商银行', 'version-count': 25, 'days-per-version': 24.125, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1325419855', 'app-name': '小猿口算 - 1秒检查口算', 'version-count': 24, 'days-per-version': 16.695652173913043, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1315541695', 'app-name': '爱编辑-视频编辑 & 视频剪辑 & 视频制作', 'version-count': 11, 'days-per-version': 38.1, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1136585962', 'app-name': '国美易卡-国美旗下贷款分期平台', 'version-count': 25, 'days-per-version': 20.208333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1278795670', 'app-name': '宝宝巴士儿歌-学前经典儿歌和故事', 'version-count': 25, 'days-per-version': 15.166666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id433592972', 'app-name': '兴业银行手机银行', 'version-count': 25, 'days-per-version': 46.083333333333336, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id1347534835', 'app-name': 'Plum-正品时尚闲置交易平台', 'version-count': 25, 'days-per-version': 9.291666666666666, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 0}
+{'id': 'id1116903233', 'app-name': '掌上飞车', 'version-count': 10, 'days-per-version': 86.33333333333333, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1026689855', 'app-name': '融360-贷款、信用卡资讯', 'version-count': 25, 'days-per-version': 30.583333333333332, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id668533031', 'app-name': '洋码头海外购-全球购物盛宴，海淘代购首选平台', 'version-count': 25, 'days-per-version': 16.041666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1101000245', 'app-name': '腾讯翻译君-英语词典和语音翻译', 'version-count': 25, 'days-per-version': 11.625, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id1437215395', 'app-name': '海豚手游加速器-无需会员的加速器', 'version-count': 12, 'days-per-version': 10.090909090909092, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id570118289', 'app-name': '每日英语听力 - 英语听力的最佳途径', 'version-count': 25, 'days-per-version': 44.041666666666664, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1252877377', 'app-name': '美团跑腿- 同城跑腿代购平台', 'version-count': 17, 'days-per-version': 34.0625, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id498818574', 'app-name': '飞常准-全球航班查询特价机票酒店预订', 'version-count': 25, 'days-per-version': 17.083333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id408709785', 'app-name': '库乐队', 'version-count': 25, 'days-per-version': 93.33333333333333, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id548608066', 'app-name': '搜狗浏览器', 'version-count': 25, 'days-per-version': 28.791666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1435602536', 'app-name': '多闪', 'version-count': 14, 'days-per-version': 9.846153846153847, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1091932804', 'app-name': '爱奇艺万能播放器 - 观看本地视频神器', 'version-count': 12, 'days-per-version': 89.9090909090909, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1296236287', 'app-name': '八度数据恢复-专家帮您找回数据', 'version-count': 11, 'days-per-version': 43.0, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1436002627', 'app-name': '个人所得税', 'version-count': 12, 'days-per-version': 8.818181818181818, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id914847333', 'app-name': '掌通家园-宝贝成长记录和父母育儿宝典', 'version-count': 25, 'days-per-version': 15.041666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1121139634', 'app-name': 'Metro新时代', 'version-count': 15, 'days-per-version': 69.07142857142857, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id518213356', 'app-name': '什么值得买-品质消费分享平台', 'version-count': 25, 'days-per-version': 18.125, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1276437206', 'app-name': '毛豆新车-首付3000元起开新车', 'version-count': 25, 'days-per-version': 17.958333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id364183992', 'app-name': 'QQ空间', 'version-count': 25, 'days-per-version': 15.083333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1234829323', 'app-name': '新浪有借 - 小额手机信用借贷款app', 'version-count': 17, 'days-per-version': 27.9375, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1069297969', 'app-name': '拉勾招聘-互联网招聘求职找工作必备', 'version-count': 25, 'days-per-version': 12.833333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id487967179', 'app-name': '动卡空间-新人赢9888元大疆无人机', 'version-count': 25, 'days-per-version': 29.458333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id915249334', 'app-name': '捷径', 'version-count': 25, 'days-per-version': 51.166666666666664, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id785058601', 'app-name': '平安好福利', 'version-count': 25, 'days-per-version': 22.041666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id384922950', 'app-name': '超高清壁纸-热门动态壁纸主题锁屏墙纸精选', 'version-count': 25, 'days-per-version': 72.75, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1113334130', 'app-name': '测量工具-尺子、距离测量专家', 'version-count': 13, 'days-per-version': 81.58333333333333, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1114690993', 'app-name': 'VUE Vlog', 'version-count': 25, 'days-per-version': 8.25, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id992762663', 'app-name': '度小满金融(钱包)', 'version-count': 25, 'days-per-version': 33.791666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id443354861', 'app-name': '相机360 - 自拍更自然', 'version-count': 25, 'days-per-version': 9.875, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id454685734', 'app-name': '神州租车-免预授权免违章押金', 'version-count': 25, 'days-per-version': 24.083333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id494776019', 'app-name': '中华万年历-日历黄历天气', 'version-count': 25, 'days-per-version': 24.208333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1329597476', 'app-name': '顺风车 - 8300万用户的选择', 'version-count': 25, 'days-per-version': 12.625, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id458587755', 'app-name': '搜狐视频-高清播放头条影视大全', 'version-count': 25, 'days-per-version': 21.916666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1046510029', 'app-name': 'Bose Connect', 'version-count': 23, 'days-per-version': 50.0, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id805408963', 'app-name': '考研帮-研友在线学习移动课堂', 'version-count': 25, 'days-per-version': 28.666666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id911699257', 'app-name': '滴滴车主-滴滴优步司机招募', 'version-count': 25, 'days-per-version': 14.541666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id398453262', 'app-name': '掌上生活-新人领666元大礼包', 'version-count': 25, 'days-per-version': 31.833333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1313126219', 'app-name': '好好学习-【听书阅读】随时随地得到新知识', 'version-count': 25, 'days-per-version': 10.791666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1347663353', 'app-name': '贝壳找房-二手房,新房,租房大平台', 'version-count': 25, 'days-per-version': 10.041666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id724295527', 'app-name': '天天P图-P图自拍神器', 'version-count': 25, 'days-per-version': 13.291666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id906632439', 'app-name': '虎扑-篮球x足球x电竞', 'version-count': 25, 'days-per-version': 19.208333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1069361548', 'app-name': '我的动态壁纸', 'version-count': 14, 'days-per-version': 80.46153846153847, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id1075740545', 'app-name': '超市-理性购物习惯养成', 'version-count': 21, 'days-per-version': 40.15, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id382201985', 'app-name': '百度', 'version-count': 25, 'days-per-version': 15.083333333333334, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1374272129', 'app-name': '爱奇艺泡泡-海量明星资源', 'version-count': 10, 'days-per-version': 27.333333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id513192980', 'app-name': '沃钱包', 'version-count': 25, 'days-per-version': 46.916666666666664, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id578186621', 'app-name': '车轮-全国车辆违章查询助手', 'version-count': 25, 'days-per-version': 16.041666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id1098549780', 'app-name': '互传 － 跨平台传输工具', 'version-count': 15, 'days-per-version': 66.64285714285714, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id392899425', 'app-name': '招商银行', 'version-count': 25, 'days-per-version': 31.666666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1317213409', 'app-name': '爱奇艺阅读-影视电子书及原著小说阅读神器', 'version-count': 23, 'days-per-version': 16.09090909090909, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id691828408', 'app-name': '微视-短视频创作与分享', 'version-count': 25, 'days-per-version': 10.791666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1022751201', 'app-name': '小厨房—宝宝巴士', 'version-count': 19, 'days-per-version': 54.44444444444444, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id952685843', 'app-name': '柚宝宝孕育 - 美柚出品怀孕育儿助手', 'version-count': 25, 'days-per-version': 25.125, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id794862904', 'app-name': '光大银行信用卡阳光惠生活', 'version-count': 25, 'days-per-version': 26.875, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1002314698', 'app-name': '多点-买超市水果生鲜来多点Dmall', 'version-count': 25, 'days-per-version': 40.5, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1246076174', 'app-name': '万年历-日历万年历农历黄历查询', 'version-count': 11, 'days-per-version': 59.4, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id427941017', 'app-name': 'YY-全民直播交友软件', 'version-count': 25, 'days-per-version': 15.833333333333334, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id425349261', 'app-name': '网易新闻', 'version-count': 25, 'days-per-version': 11.208333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id989804926', 'app-name': 'Firefox 网络浏览器', 'version-count': 25, 'days-per-version': 23.041666666666668, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id932289286', 'app-name': '爱吃饭-培养健康饮食习惯', 'version-count': 23, 'days-per-version': 54.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id595594905', 'app-name': '虾米音乐-听见不同(阿里出品)', 'version-count': 25, 'days-per-version': 15.166666666666666, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id414478124', 'app-name': '微信', 'version-count': 25, 'days-per-version': 21.333333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id413993350', 'app-name': '房天下-二手房租房新房买房房产平台', 'version-count': 25, 'days-per-version': 18.833333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1326687686', 'app-name': '湘行一卡通', 'version-count': 12, 'days-per-version': 36.09090909090909, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id982906456', 'app-name': '对庄翡翠-翡翠源头直播批发市场', 'version-count': 25, 'days-per-version': 36.416666666666664, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1001153553', 'app-name': '腾讯WiFi管家-一键连上安全WiFi', 'version-count': 25, 'days-per-version': 21.75, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id588673713', 'app-name': '酷我音乐-好音质用酷我', 'version-count': 25, 'days-per-version': 16.833333333333332, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id460310138', 'app-name': '南方航空应用', 'version-count': 25, 'days-per-version': 16.625, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id406596432', 'app-name': '马蜂窝旅游-旅行攻略查询和酒店门票预订', 'version-count': 25, 'days-per-version': 13.125, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id348737611', 'app-name': '词典翻译金山词霸', 'version-count': 25, 'days-per-version': 21.041666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id473225145', 'app-name': 'QQ邮箱', 'version-count': 25, 'days-per-version': 30.25, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id450748070', 'app-name': '有道云笔记 - 扫描王版', 'version-count': 25, 'days-per-version': 22.541666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id515199321', 'app-name': '高铁管家 - 火车票机票云端自动抢票', 'version-count': 25, 'days-per-version': 24.541666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id546505307', 'app-name': 'ZOOM Cloud Meetings', 'version-count': 25, 'days-per-version': 24.458333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1219138359', 'app-name': '贷款呗-芝麻分贷款用小额贷款app', 'version-count': 25, 'days-per-version': 26.958333333333332, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id576309271', 'app-name': '快牙 - 跨平台传输神器，媒体中心', 'version-count': 25, 'days-per-version': 31.5, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1294152536', 'app-name': '平安好贷', 'version-count': 25, 'days-per-version': 16.041666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1116013197', 'app-name': '订阅号助手', 'version-count': 10, 'days-per-version': 25.0, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id1319811972', 'app-name': '惠头条-头条热点新闻资讯阅读平台', 'version-count': 11, 'days-per-version': 39.1, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id415854096', 'app-name': '民生信用卡全民生活', 'version-count': 25, 'days-per-version': 59.041666666666664, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id432486451', 'app-name': '500彩票-体育彩票玩家的主场', 'version-count': 25, 'days-per-version': 57.791666666666664, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id434831001', 'app-name': '京彩生活—北京银行手机银行客户端', 'version-count': 25, 'days-per-version': 79.20833333333333, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id1330602531', 'app-name': '京东读书-正版电子书看书追书阅读神器', 'version-count': 12, 'days-per-version': 23.0, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id887314963', 'app-name': 'Boss直聘-招聘求职找工作神器', 'version-count': 25, 'days-per-version': 23.5, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id672984826', 'app-name': '亲宝宝-宝宝成长记录和妈妈育儿助手', 'version-count': 25, 'days-per-version': 8.875, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 0}
+{'id': 'id1340641916', 'app-name': '连尚读书 - 小说阅读器看书文学城', 'version-count': 17, 'days-per-version': 22.375, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id847521617', 'app-name': '海报新闻', 'version-count': 25, 'days-per-version': 24.541666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1031121586', 'app-name': '宝宝巴士 - 启蒙早教父母必备', 'version-count': 25, 'days-per-version': 19.125, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1048881232', 'app-name': '糖果工厂-DIY创意糖果制作', 'version-count': 18, 'days-per-version': 52.64705882352941, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id440676901', 'app-name': 'Agoda安可达-订房有特惠', 'version-count': 25, 'days-per-version': 7.25, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 0}
+{'id': 'id1020114152', 'app-name': '影视大全-电影电视剧视频播放器', 'version-count': 25, 'days-per-version': 24.083333333333332, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id967181200', 'app-name': '宝宝巴士奇妙屋——为成长保驾护航', 'version-count': 25, 'days-per-version': 26.833333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1179305935', 'app-name': '定位找人-手机定位追踪科技', 'version-count': 24, 'days-per-version': 20.47826086956522, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id821470084', 'app-name': '集享联盟 - 全家 德克士等集享商户的积分兑换平台', 'version-count': 25, 'days-per-version': 22.958333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id954995415', 'app-name': '京东到家-生鲜水果超市药店1小时到家', 'version-count': 25, 'days-per-version': 17.25, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id921626073', 'app-name': '捷信金融-小额贷款信用分期贷款平台', 'version-count': 25, 'days-per-version': 28.708333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id651323845', 'app-name': '智行火车票-双引擎抢火车票机票', 'version-count': 25, 'days-per-version': 39.916666666666664, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id787786130', 'app-name': '宜人贷借款 – 凭信用卡贷款200000元', 'version-count': 25, 'days-per-version': 27.208333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1116626256', 'app-name': '甜品店-制作冰淇淋果汁雪糕的游戏', 'version-count': 20, 'days-per-version': 34.68421052631579, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id806114204', 'app-name': '中国石化加油卡掌上营业厅', 'version-count': 25, 'days-per-version': 74.58333333333333, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id469346844', 'app-name': '行业找工作--招聘求职软件', 'version-count': 25, 'days-per-version': 28.875, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1181738336', 'app-name': '滴滴顺风车-共享出行平台', 'version-count': 10, 'days-per-version': 59.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1268483731', 'app-name': '智联招聘企业版-专业招聘招人平台', 'version-count': 25, 'days-per-version': 20.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1077550649', 'app-name': '香港迪士尼乐园', 'version-count': 11, 'days-per-version': 91.3, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id388089858', 'app-name': '艺龙旅行-订酒店机票旅游app', 'version-count': 25, 'days-per-version': 9.916666666666666, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1308838222', 'app-name': '淘集集—全场一元起购物', 'version-count': 21, 'days-per-version': 21.95, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1281873118', 'app-name': '百度极速版', 'version-count': 25, 'days-per-version': 18.916666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id351091731', 'app-name': '大众点评-分享你的潮生活', 'version-count': 25, 'days-per-version': 10.958333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id636344719', 'app-name': '平安证券-股票开户 炒股基金理财投资', 'version-count': 25, 'days-per-version': 22.416666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1012871328', 'app-name': '毒-运动x潮流x装备', 'version-count': 25, 'days-per-version': 19.708333333333332, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id462125072', 'app-name': '广东移动手机营业厅', 'version-count': 25, 'days-per-version': 47.75, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id471855847', 'app-name': '浦发手机银行', 'version-count': 25, 'days-per-version': 18.083333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id637428894', 'app-name': '水印相机', 'version-count': 18, 'days-per-version': 75.41176470588235, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id518611020', 'app-name': '聚美优品 - 优选好物，精致生活', 'version-count': 25, 'days-per-version': 10.333333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1250736956', 'app-name': '新浪卡贷-低息信用卡手机借贷款平台', 'version-count': 13, 'days-per-version': 32.75, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1111154738', 'app-name': '虎牙助手', 'version-count': 25, 'days-per-version': 15.625, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id953939112', 'app-name': '神州专车-专业安全，出行优选', 'version-count': 25, 'days-per-version': 26.25, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1270594280', 'app-name': '小爱音箱', 'version-count': 19, 'days-per-version': 26.61111111111111, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1061504496', 'app-name': '永辉生活', 'version-count': 25, 'days-per-version': 22.708333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id377194688', 'app-name': '会说话的汤姆猫', 'version-count': 25, 'days-per-version': 117.29166666666667, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id573185985', 'app-name': '房贷计算器 - 按揭贷款计算器', 'version-count': 25, 'days-per-version': 59.041666666666664, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1030178866', 'app-name': '微商水印相机-支持素材一键转发', 'version-count': 25, 'days-per-version': 9.375, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id627781309', 'app-name': 'PP体育-看高清足球视频直播', 'version-count': 25, 'days-per-version': 12.333333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1287034762', 'app-name': '立即贷-贷款借钱小额分期平台', 'version-count': 25, 'days-per-version': 20.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1382598559', 'app-name': '点点-好生活来点点', 'version-count': 13, 'days-per-version': 19.333333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1044166783', 'app-name': '工银e生活——新手领取188元大礼包', 'version-count': 25, 'days-per-version': 38.541666666666664, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id987570993', 'app-name': '美篇 - 朋友圈图文创作分享平台', 'version-count': 25, 'days-per-version': 19.041666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id515667501', 'app-name': '四川农信手机银行', 'version-count': 25, 'days-per-version': 22.541666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id978599335', 'app-name': '招联金融—信用贷款免息分期借钱神器', 'version-count': 25, 'days-per-version': 24.083333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id336141475', 'app-name': '优酷视频-乡村爱情11全网独播', 'version-count': 25, 'days-per-version': 12.916666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id422689480', 'app-name': 'Gmail - Google 推出的电子邮件服务', 'version-count': 25, 'days-per-version': 14.541666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id956052053', 'app-name': '拍拍贷-纽交所上市的网贷大平台', 'version-count': 25, 'days-per-version': 28.5, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id465885800', 'app-name': '百度知道', 'version-count': 25, 'days-per-version': 27.791666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1246175190', 'app-name': 'VaporCam － 蒸汽波相机', 'version-count': 23, 'days-per-version': 26.363636363636363, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id733689509', 'app-name': '书旗小说-看小说大全的电子书阅读神器', 'version-count': 25, 'days-per-version': 16.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1303470988', 'app-name': '看漫画-漫画动漫阅读APP', 'version-count': 25, 'days-per-version': 11.833333333333334, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id586683407', 'app-name': 'Microsoft Excel', 'version-count': 25, 'days-per-version': 25.375, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id434212566', 'app-name': '豆果美食 - 菜谱食谱大全厨房小白首选', 'version-count': 25, 'days-per-version': 14.416666666666666, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id830302503', 'app-name': '百度手机卫士－电话短信拦截防骚扰安全助手', 'version-count': 25, 'days-per-version': 25.625, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id921478733', 'app-name': '嘀嗒出行-打车平台,多种用车方式可选', 'version-count': 25, 'days-per-version': 20.458333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1380156450', 'app-name': '作业帮家长版-让家长爱上作业辅导', 'version-count': 25, 'days-per-version': 8.125, 'days-per-version-last-6-month': 8.181818181818182, 'emergency-release-count': 0}
+{'id': 'id1236629993', 'app-name': '小米贷款-借钱借款贷款分期平台', 'version-count': 18, 'days-per-version': 34.94117647058823, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1234931178', 'app-name': '查查公积金-住房公积金社保查询管家', 'version-count': 19, 'days-per-version': 19.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id467309800', 'app-name': '铃声大全 - 功能最全的手机铃声制作设置助手应用', 'version-count': 25, 'days-per-version': 80.70833333333333, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1282277563', 'app-name': '万达普惠-万达旗下金融借贷平台', 'version-count': 25, 'days-per-version': 18.958333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id915299335', 'app-name': '土巴兔装修-装修设计案例家居建材平台', 'version-count': 25, 'days-per-version': 12.25, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1188202309', 'app-name': '手工画像 - 定制Q版社交平台头像表情包', 'version-count': 15, 'days-per-version': 52.285714285714285, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1171313731', 'app-name': '51人品贷', 'version-count': 20, 'days-per-version': 37.73684210526316, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id664392967', 'app-name': '同程旅游Pro-订酒店机票火车票', 'version-count': 25, 'days-per-version': 53.333333333333336, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id427424432', 'app-name': 'magicplan', 'version-count': 25, 'days-per-version': 34.25, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1273580577', 'app-name': 'PinksCam少女心滤镜相机:美颜自拍P图工具', 'version-count': 16, 'days-per-version': 34.86666666666667, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1241204798', 'app-name': '怀孕管家Pro-开心备孕科学育儿', 'version-count': 19, 'days-per-version': 34.72222222222222, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id746925035', 'app-name': '配音秀-有声就有戏', 'version-count': 25, 'days-per-version': 16.333333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id979116729', 'app-name': '我来贷-信用贷款分期消费平台', 'version-count': 25, 'days-per-version': 26.541666666666668, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id919502358', 'app-name': '好大夫在线-在线咨询医生挂号平台', 'version-count': 25, 'days-per-version': 7.833333333333333, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 0}
+{'id': 'id898632558', 'app-name': '主题控-高清主题壁纸', 'version-count': 14, 'days-per-version': 88.15384615384616, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1322331084', 'app-name': '新氧SoYoung-美容微整形专业医美APP', 'version-count': 25, 'days-per-version': 11.166666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id976048109', 'app-name': '喵街-用喵街 逛银泰', 'version-count': 25, 'days-per-version': 16.916666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id1058251762', 'app-name': '熊猫直播—主播专用', 'version-count': 25, 'days-per-version': 11.625, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1062816186', 'app-name': '家乐福商城—新人领券优惠', 'version-count': 17, 'days-per-version': 60.875, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id305343404', 'app-name': 'Tumblr', 'version-count': 25, 'days-per-version': 11.875, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id978985106', 'app-name': '映客-抢麦嗨唱，直播交友', 'version-count': 25, 'days-per-version': 8.833333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id1222273161', 'app-name': 'DNF助手', 'version-count': 14, 'days-per-version': 48.92307692307692, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1149186410', 'app-name': '人人贷借款-手机贷款app', 'version-count': 25, 'days-per-version': 21.166666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id915736364', 'app-name': '动漫之家-海量动漫迷分享漫画阅读', 'version-count': 25, 'days-per-version': 22.333333333333332, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1251842119', 'app-name': '丰收互联 - 浙江农信新一代手机银行', 'version-count': 21, 'days-per-version': 26.15, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1032660607', 'app-name': '迅游手游加速器「网络优化工具」王者荣耀刺激战场加速器', 'version-count': 25, 'days-per-version': 38.291666666666664, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1057446665', 'app-name': '买单吧-交通银行信用卡', 'version-count': 25, 'days-per-version': 34.083333333333336, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id611129419', 'app-name': '汇声绘影-照片制作音乐电子相册微视频', 'version-count': 25, 'days-per-version': 61.041666666666664, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id464660903', 'app-name': '照片美化编辑和图片处理软件 - 完美影像', 'version-count': 25, 'days-per-version': 77.58333333333333, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id443926246', 'app-name': '驴妈妈旅游-订景点门票,选机票酒店', 'version-count': 25, 'days-per-version': 16.916666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id510909506', 'app-name': '闲鱼 - 闲置二手游起来', 'version-count': 25, 'days-per-version': 13.583333333333334, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1316836240', 'app-name': '儿歌多多动画屋-小猪佩奇正版授权', 'version-count': 16, 'days-per-version': 28.6, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id386592716', 'app-name': '宜家《家居指南》', 'version-count': 25, 'days-per-version': 71.70833333333333, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id490655927', 'app-name': 'Yoho!Buy 有货-潮流购物逛不停', 'version-count': 25, 'days-per-version': 12.125, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id897342825', 'app-name': '58到家-优选到位的同城上门家政服务', 'version-count': 25, 'days-per-version': 26.916666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id931720936', 'app-name': '腾讯课堂 - 职业培训在线学习教育平台', 'version-count': 25, 'days-per-version': 20.75, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id390860325', 'app-name': '口碑-美食外卖,吃喝玩乐享优惠', 'version-count': 25, 'days-per-version': 18.833333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id481623196', 'app-name': '腾讯地图-路况精准出行必备的导航软件', 'version-count': 25, 'days-per-version': 10.75, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id1295459388', 'app-name': '玩洽-5秒内和附近、外国年轻人视频聊天', 'version-count': 11, 'days-per-version': 24.3, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id921340116', 'app-name': '爱看影视－免费最新最热海量院线大片电影电视剧美剧综艺视频播放器', 'version-count': 18, 'days-per-version': 36.1764705882353, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1171321498', 'app-name': '网易红彩-NBA足球彩票比分预测', 'version-count': 25, 'days-per-version': 28.083333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id956441499', 'app-name': 'Piczoo - 美图修图，简洁拼图软件', 'version-count': 25, 'days-per-version': 41.458333333333336, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1073503648', 'app-name': '百果园-春节不打烊', 'version-count': 25, 'days-per-version': 21.083333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1178856715', 'app-name': '360借条-手机免息短期借款借钱平台', 'version-count': 25, 'days-per-version': 19.541666666666668, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1101577537', 'app-name': '老黄历万年历－传统日历 算命占卜大师', 'version-count': 10, 'days-per-version': 62.666666666666664, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1011687876', 'app-name': '滴滴代驾司机', 'version-count': 25, 'days-per-version': 32.791666666666664, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1067251466', 'app-name': '美团众包-兼职轻松赚，送餐好帮手', 'version-count': 25, 'days-per-version': 17.666666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1253454307', 'app-name': '盈盈有钱-分期贷款平台', 'version-count': 25, 'days-per-version': 19.75, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1315895992', 'app-name': '电视家手机电视直播大全', 'version-count': 25, 'days-per-version': 12.25, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1102305688', 'app-name': '王者营地', 'version-count': 25, 'days-per-version': 26.375, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1207542399', 'app-name': '闲聊-兴趣部落', 'version-count': 25, 'days-per-version': 15.958333333333334, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id644873678', 'app-name': '寺库奢侈品－给你全世界的美好', 'version-count': 25, 'days-per-version': 24.208333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1018747351', 'app-name': '形色 -拍照识花识别植物', 'version-count': 25, 'days-per-version': 31.625, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1288486566', 'app-name': '蛋壳公寓-租房、找房必备软件', 'version-count': 25, 'days-per-version': 14.875, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id424598114', 'app-name': '苏宁易购-上网上街上苏宁', 'version-count': 25, 'days-per-version': 23.666666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1127750481', 'app-name': '多屏互动--智能电视好助手', 'version-count': 25, 'days-per-version': 36.708333333333336, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1139108606', 'app-name': '蒲公英VPN-让办公组网更简单', 'version-count': 15, 'days-per-version': 60.857142857142854, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id385907472', 'app-name': '播放器OPlayer Lite - 视频播放器', 'version-count': 25, 'days-per-version': 81.875, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id566813949', 'app-name': '淘票票——淘出好时光', 'version-count': 25, 'days-per-version': 9.541666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id910513149', 'app-name': '全民K歌 – 抢麦新玩法社交平台', 'version-count': 25, 'days-per-version': 21.625, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id515651240', 'app-name': '农行掌上银行', 'version-count': 18, 'days-per-version': 143.0, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id958880753', 'app-name': '宝宝过春节-趣味年夜饭，欢乐过春节', 'version-count': 17, 'days-per-version': 71.4375, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id580097761', 'app-name': '广州地铁-官方APP', 'version-count': 25, 'days-per-version': 22.166666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id487608658', 'app-name': 'QQ阅读-拥有海量热门小说、漫画的电子书阅读器', 'version-count': 25, 'days-per-version': 25.458333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id504274740', 'app-name': '猫眼-娱乐看猫眼', 'version-count': 25, 'days-per-version': 17.791666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1050915215', 'app-name': '小花钱包', 'version-count': 25, 'days-per-version': 38.5, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1301961579', 'app-name': 'GIF制作-gif动图制作器', 'version-count': 17, 'days-per-version': 27.75, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1127249355', 'app-name': '网易蜗牛读书', 'version-count': 25, 'days-per-version': 24.458333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id551941458', 'app-name': '向日葵远程控制-桌面控制与远程监控软件', 'version-count': 25, 'days-per-version': 52.291666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id391965015', 'app-name': '中国建设银行', 'version-count': 25, 'days-per-version': 15.875, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1142582676', 'app-name': '借花花-手机贷款app', 'version-count': 16, 'days-per-version': 30.933333333333334, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id385285922', 'app-name': '乐视视频 就视不一样', 'version-count': 25, 'days-per-version': 22.541666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id460979760', 'app-name': '下厨房-美食菜谱大全,小白学做饭首选', 'version-count': 25, 'days-per-version': 11.958333333333334, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1350661187', 'app-name': '分期还 - 贷款急借钱平台', 'version-count': 19, 'days-per-version': 16.166666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id973032624', 'app-name': '影视大全-人人美剧韩剧视频播放器', 'version-count': 25, 'days-per-version': 27.833333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id840756414', 'app-name': '95秀-手机直播视频交友', 'version-count': 25, 'days-per-version': 28.5, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id976039116', 'app-name': '一点资讯（官方版）', 'version-count': 25, 'days-per-version': 22.916666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id1419433041', 'app-name': 'CAR++', 'version-count': 13, 'days-per-version': 12.916666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id599852710', 'app-name': 'WPS Office', 'version-count': 25, 'days-per-version': 17.791666666666668, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id694164275', 'app-name': 'Quik — GoPro视频编辑器', 'version-count': 25, 'days-per-version': 27.583333333333332, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id554499054', 'app-name': '滴滴出行 - DiDi', 'version-count': 25, 'days-per-version': 11.708333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1330533368', 'app-name': '信用管家Lite-分期贷款借钱', 'version-count': 13, 'days-per-version': 27.75, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id863837323', 'app-name': '咪咕阅读-看热门小说的电子书追书神器', 'version-count': 25, 'days-per-version': 19.25, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id488202082', 'app-name': '当当云阅读-有价值的阅读', 'version-count': 25, 'days-per-version': 21.041666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id912139104', 'app-name': '西窗烛 - 中国诗词大会必备', 'version-count': 25, 'days-per-version': 10.083333333333334, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id1039727169', 'app-name': '交管12123', 'version-count': 23, 'days-per-version': 50.40909090909091, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id461703208', 'app-name': '高德地图-精准地图,导航出行必备', 'version-count': 25, 'days-per-version': 20.75, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1027275974', 'app-name': '离岛免税一三亚国际免税城官方商城', 'version-count': 15, 'days-per-version': 87.21428571428571, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1100980858', 'app-name': '北京交通', 'version-count': 21, 'days-per-version': 50.7, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id884007229', 'app-name': '平安普惠-为您提供信任借款服务', 'version-count': 25, 'days-per-version': 26.833333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1073826118', 'app-name': '上海迪士尼度假区', 'version-count': 20, 'days-per-version': 53.10526315789474, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1372626629', 'app-name': 'OYO酒店-花更少，住更好', 'version-count': 19, 'days-per-version': 15.88888888888889, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id1194313045', 'app-name': '省呗', 'version-count': 20, 'days-per-version': 38.89473684210526, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id439438619', 'app-name': 'Snapseed', 'version-count': 25, 'days-per-version': 44.083333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1377083962', 'app-name': '浮浮雷达-一键听歌识曲', 'version-count': 11, 'days-per-version': 24.3, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1254299999', 'app-name': '经期管家-女生大姨妈记录工具', 'version-count': 10, 'days-per-version': 62.333333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id488033535', 'app-name': '智联招聘网-找工作求职人才招聘软件', 'version-count': 25, 'days-per-version': 12.666666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1106329353', 'app-name': '熊猫直播-S8冠军战队iG独家签约', 'version-count': 25, 'days-per-version': 7.416666666666667, 'days-per-version-last-6-month': 7.826086956521739, 'emergency-release-count': 0}
+{'id': 'id605841731', 'app-name': 'Skype for Business', 'version-count': 25, 'days-per-version': 28.75, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1030220577', 'app-name': '东方头条-个性化新闻阅读平台', 'version-count': 25, 'days-per-version': 12.458333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id455447012', 'app-name': 'WeTalk 网络电话', 'version-count': 25, 'days-per-version': 61.0, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id979843190', 'app-name': '触手直播-玩游戏闯关 看热门赛事直播', 'version-count': 25, 'days-per-version': 26.583333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1085016815', 'app-name': '平安口袋银行-更懂您的智能银行', 'version-count': 25, 'days-per-version': 23.875, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id410395246', 'app-name': 'Microsoft OneNote', 'version-count': 25, 'days-per-version': 25.375, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id422844108', 'app-name': '中信银行手机银行', 'version-count': 25, 'days-per-version': 32.708333333333336, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id928864273', 'app-name': '叽里呱啦-专注英语早教启蒙', 'version-count': 25, 'days-per-version': 8.833333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id765577833', 'app-name': '国寿e宝', 'version-count': 24, 'days-per-version': 76.65217391304348, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1391068141', 'app-name': '信用查询-个人征信查询', 'version-count': 10, 'days-per-version': 13.333333333333334, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id859938926', 'app-name': '融e购', 'version-count': 25, 'days-per-version': 34.916666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id310633997', 'app-name': 'WhatsApp Messenger', 'version-count': 25, 'days-per-version': 14.5, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id977946724', 'app-name': '超星学习通', 'version-count': 25, 'days-per-version': 40.458333333333336, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id458270120', 'app-name': '快递100 - 轻松查快递，放心寄快递', 'version-count': 25, 'days-per-version': 24.875, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id749046891', 'app-name': '我的壁纸和主题', 'version-count': 25, 'days-per-version': 77.0, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1065178761', 'app-name': '网易严选-新人可领取1000元优惠券', 'version-count': 25, 'days-per-version': 14.791666666666666, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id687624831', 'app-name': '魔漫相机: 一拍成漫画 表情', 'version-count': 25, 'days-per-version': 28.5, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id710380093', 'app-name': 'QQ国际版', 'version-count': 14, 'days-per-version': 134.53846153846155, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1406224118', 'app-name': 'Soda苏打 - 高品质兴趣社交', 'version-count': 14, 'days-per-version': 10.846153846153847, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id379395415', 'app-name': '携程旅行-订酒店机票火车票', 'version-count': 25, 'days-per-version': 17.666666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1229593919', 'app-name': '时光手帐-花样手账日记本', 'version-count': 25, 'days-per-version': 17.125, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id377298193', 'app-name': 'iMovie 剪辑', 'version-count': 22, 'days-per-version': 145.71428571428572, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id531323947', 'app-name': '会说话的金杰猫', 'version-count': 22, 'days-per-version': 105.28571428571429, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id455004730', 'app-name': '万豪旅享家', 'version-count': 25, 'days-per-version': 14.625, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id736536022', 'app-name': '哔哩哔哩-弹幕番剧直播高清视频', 'version-count': 25, 'days-per-version': 13.833333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id414245413', 'app-name': '京东-挑好物，上京东', 'version-count': 25, 'days-per-version': 12.75, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1157468974', 'app-name': '弹个车-新年你要开新车', 'version-count': 25, 'days-per-version': 16.625, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id998790080', 'app-name': '凯叔讲故事—儿童早教启蒙哄睡故事大全', 'version-count': 25, 'days-per-version': 15.5, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1100596591', 'app-name': '海淘免税店-海外正品代购必备折扣神器', 'version-count': 25, 'days-per-version': 36.916666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id441216572', 'app-name': '360手机卫士-电话短信防骚扰拦截安全助手', 'version-count': 25, 'days-per-version': 19.708333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id513829338', 'app-name': '大麦 - 演出、体育购票平台', 'version-count': 25, 'days-per-version': 17.125, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id987050294', 'app-name': '实名宝', 'version-count': 13, 'days-per-version': 105.83333333333333, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id460033035', 'app-name': '春秋航空-特价飞机票预订航班动态查询', 'version-count': 25, 'days-per-version': 24.791666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1185191347', 'app-name': '猎聘通-专业移动招聘平台', 'version-count': 25, 'days-per-version': 26.416666666666668, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1060362098', 'app-name': '找靓机-二手手机交易平台', 'version-count': 25, 'days-per-version': 12.416666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1393912676', 'app-name': '皮皮虾-今日头条官方爆笑社区', 'version-count': 25, 'days-per-version': 6.541666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 0}
+{'id': 'id303191318', 'app-name': '同花顺-炒股、股票', 'version-count': 25, 'days-per-version': 16.291666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1415653267', 'app-name': '一甜相机', 'version-count': 13, 'days-per-version': 14.833333333333334, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id544007664', 'app-name': 'YouTube', 'version-count': 25, 'days-per-version': 7.291666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 0}
+{'id': 'id1194338569', 'app-name': '小睡眠 - 睡眠梦话监测，白噪音冥想助眠', 'version-count': 25, 'days-per-version': 10.041666666666666, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id1089854728', 'app-name': '美丽修行-查询美妆产品和化妆品成分', 'version-count': 25, 'days-per-version': 32.041666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1044535426', 'app-name': '摩拜单车-好骑可靠的共享单车', 'version-count': 25, 'days-per-version': 11.125, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id796332505', 'app-name': '掌上电力(官方版)', 'version-count': 25, 'days-per-version': 14.291666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id423525686', 'app-name': '东方财富-股票炒股 证券开户', 'version-count': 25, 'days-per-version': 44.083333333333336, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id961159303', 'app-name': '叮当快药—28分钟送药到家,夜间送药', 'version-count': 25, 'days-per-version': 49.5, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id414603431', 'app-name': 'QQ音乐 - 让生活充满音乐', 'version-count': 25, 'days-per-version': 25.291666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1374074090', 'app-name': '享物说 - 只送不卖，有趣不花钱', 'version-count': 25, 'days-per-version': 8.083333333333334, 'days-per-version-last-6-month': 9.0, 'emergency-release-count': 0}
+{'id': 'id1148546419', 'app-name': '电视直播-体育足球手机电视直播大全', 'version-count': 25, 'days-per-version': 13.0, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id717804271', 'app-name': '九秀直播-超精彩的全民直播平台', 'version-count': 25, 'days-per-version': 12.583333333333334, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id878550740', 'app-name': 'CAD快速看图 - 天正全专业', 'version-count': 25, 'days-per-version': 57.583333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id414706506', 'app-name': 'Google 翻译', 'version-count': 25, 'days-per-version': 30.0, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id688037240', 'app-name': '携程旅行（极速版）-酒店机票火车票预订', 'version-count': 25, 'days-per-version': 69.33333333333333, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id666188756', 'app-name': '华夏银行手机银行', 'version-count': 25, 'days-per-version': 54.25, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1152954857', 'app-name': '华夏银行信用卡华彩生活', 'version-count': 17, 'days-per-version': 51.1875, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1239287963', 'app-name': '驾考宝典-驾照学车考驾照驾校宝典', 'version-count': 17, 'days-per-version': 36.875, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id803837129', 'app-name': '安兔兔评测—硬件检测、跑分', 'version-count': 25, 'days-per-version': 32.75, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id498919604', 'app-name': '腕表之家-名表论坛，手表价格查询', 'version-count': 25, 'days-per-version': 42.916666666666664, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id494520120', 'app-name': '蚂蚁短租-去旅游，住民宿，选蚂蚁短租', 'version-count': 25, 'days-per-version': 26.291666666666668, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1017261655', 'app-name': '我的扫描仪 - 扫描 & 编辑pdf', 'version-count': 13, 'days-per-version': 83.0, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id871095743', 'app-name': '虎牙直播-游戏互动直播平台', 'version-count': 25, 'days-per-version': 11.208333333333334, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 0}
+{'id': 'id818237113', 'app-name': '山姆会员商店', 'version-count': 25, 'days-per-version': 41.541666666666664, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id561859697', 'app-name': '丝芙兰SEPHORA - 一站式正品轻奢美妆购物平台', 'version-count': 25, 'days-per-version': 19.583333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id641522896', 'app-name': '猎豹浏览器-能抢火车票、能看片的极速浏览器', 'version-count': 25, 'days-per-version': 32.833333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1214783848', 'app-name': '马卡龙玩图-图片动起来', 'version-count': 25, 'days-per-version': 23.416666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1330927814', 'app-name': '快对作业', 'version-count': 25, 'days-per-version': 10.791666666666666, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id415443644', 'app-name': '前程无忧51Job-求职招聘找工作', 'version-count': 25, 'days-per-version': 39.208333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1116038378', 'app-name': '乐播投屏', 'version-count': 25, 'days-per-version': 26.625, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id620262310', 'app-name': '驾校一点通-2019驾考学车考驾照必备宝典', 'version-count': 25, 'days-per-version': 9.125, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1073064739', 'app-name': '图虫-摄影和壁纸全是大片级别', 'version-count': 25, 'days-per-version': 9.25, 'days-per-version-last-6-month': 8.571428571428571, 'emergency-release-count': 0}
+{'id': 'id1289531471', 'app-name': '微博动漫-高清二次元漫画大全', 'version-count': 22, 'days-per-version': 19.61904761904762, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id499819758', 'app-name': '星巴克中国', 'version-count': 25, 'days-per-version': 20.875, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1233010717', 'app-name': '头像 - 个性情侣头像大全.', 'version-count': 11, 'days-per-version': 58.8, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1098628542', 'app-name': '香哈菜谱-精选食谱 家常菜做法大全', 'version-count': 25, 'days-per-version': 16.583333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id505884327', 'app-name': '奥维互动地图浏览器', 'version-count': 25, 'days-per-version': 29.5, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id731368203', 'app-name': '录音机 - 专业录音软件', 'version-count': 25, 'days-per-version': 73.20833333333333, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1340675420', 'app-name': '活力花', 'version-count': 10, 'days-per-version': 39.333333333333336, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id564713751', 'app-name': '51信用卡管家-专业信用卡管理平台', 'version-count': 25, 'days-per-version': 18.833333333333332, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1371929169', 'app-name': '不就-匿名语音社交App', 'version-count': 23, 'days-per-version': 11.318181818181818, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id859962702', 'app-name': '小米WiFi', 'version-count': 25, 'days-per-version': 28.75, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id595277934', 'app-name': '微医（挂号网）-乌镇互联网医院', 'version-count': 25, 'days-per-version': 12.0, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id525635672', 'app-name': '中国银行缤纷生活', 'version-count': 25, 'days-per-version': 38.583333333333336, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1234173582', 'app-name': '挖财信用卡管家-手机信用卡管家', 'version-count': 25, 'days-per-version': 23.958333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1017574755', 'app-name': 'TP-LINK', 'version-count': 14, 'days-per-version': 90.76923076923077, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id447733826', 'app-name': '光大银行手机银行', 'version-count': 25, 'days-per-version': 20.125, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1233676299', 'app-name': '手机电视直播大全-湖南浙江东方卫视', 'version-count': 11, 'days-per-version': 54.0, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id405882753', 'app-name': '链家-二手房租房新房,专业房产平台', 'version-count': 25, 'days-per-version': 16.083333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id500975133', 'app-name': '百合网-同城相亲约会恋爱平台', 'version-count': 25, 'days-per-version': 46.458333333333336, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id667831823', 'app-name': '车来了-精准的实时掌上公交地铁', 'version-count': 25, 'days-per-version': 10.166666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id986217056', 'app-name': '小天才 电话手表-能打电话的手表', 'version-count': 25, 'days-per-version': 16.541666666666668, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1297275093', 'app-name': '图格Pro-九宫格拼图切图大师与视频长截图拼接工具', 'version-count': 25, 'days-per-version': 17.625, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id745097904', 'app-name': '平安壹钱包 - 理财神器', 'version-count': 25, 'days-per-version': 22.791666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id672662544', 'app-name': '微店店长版 - 手机开店用微店', 'version-count': 25, 'days-per-version': 10.166666666666666, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id590338362', 'app-name': '网易云音乐-音乐的力量', 'version-count': 25, 'days-per-version': 17.708333333333332, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id549421060', 'app-name': '平安金管家', 'version-count': 25, 'days-per-version': 22.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id597364850', 'app-name': '英语流利说-让你忍不住开口说英语', 'version-count': 25, 'days-per-version': 20.0, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1262209120', 'app-name': '还呗', 'version-count': 25, 'days-per-version': 9.875, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id480161784', 'app-name': '航旅纵横-官方航班动态、手机值机、机票', 'version-count': 25, 'days-per-version': 17.916666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1150346397', 'app-name': '游乐园-经典游乐园游戏大集锦', 'version-count': 10, 'days-per-version': 60.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1361963529', 'app-name': '影视大全-高清电视剧电影动漫视频', 'version-count': 17, 'days-per-version': 14.75, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1004816017', 'app-name': '10086-中国移动出品', 'version-count': 25, 'days-per-version': 21.208333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id527572895', 'app-name': '必胜客Pizza hut - 会员优惠券和外卖订餐', 'version-count': 25, 'days-per-version': 18.416666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id435057236', 'app-name': '世纪佳缘 - 附近单身寻缘交友平台', 'version-count': 25, 'days-per-version': 61.041666666666664, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1052761459', 'app-name': '人人影视字幕组', 'version-count': 10, 'days-per-version': 93.44444444444444, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id534174796', 'app-name': '起点读书-正版小说漫画阅读中文网', 'version-count': 25, 'days-per-version': 26.833333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id693228373', 'app-name': '微车查违章-全国优惠加油违章查询', 'version-count': 25, 'days-per-version': 14.041666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id725208930', 'app-name': '时尚搭配 WEAR', 'version-count': 25, 'days-per-version': 18.0, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id463150061', 'app-name': '掌阅 - 引领品质阅读', 'version-count': 25, 'days-per-version': 20.625, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1175213887', 'app-name': 'TIM – QQ办公简洁版', 'version-count': 19, 'days-per-version': 33.166666666666664, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id974428942', 'app-name': '浦发银行信用卡浦大喜奔', 'version-count': 25, 'days-per-version': 32.333333333333336, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1263974711', 'app-name': '贝店-我的店！带你买遍全球好货', 'version-count': 25, 'days-per-version': 8.208333333333334, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id796870199', 'app-name': '工银融e联', 'version-count': 25, 'days-per-version': 23.0, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id717009129', 'app-name': '阿里TV助手-好用的智能电视遥控器', 'version-count': 25, 'days-per-version': 60.875, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id553115181', 'app-name': '海底捞', 'version-count': 25, 'days-per-version': 76.5, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id717545062', 'app-name': '遥控精灵-手机万能遥控器', 'version-count': 25, 'days-per-version': 16.291666666666668, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id331975235', 'app-name': 'Adobe Photoshop Express', 'version-count': 25, 'days-per-version': 23.125, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1403269918', 'app-name': '龙分期-小额网上贷款平台app', 'version-count': 19, 'days-per-version': 10.777777777777779, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id457856023', 'app-name': '薄荷健康-减肥运动健身助手', 'version-count': 25, 'days-per-version': 18.583333333333332, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id288113403', 'app-name': '翻译 - 讲话翻译器和词典', 'version-count': 25, 'days-per-version': 11.875, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id1277660521', 'app-name': '优信二手车全国购-二手车买卖交易平台', 'version-count': 20, 'days-per-version': 26.63157894736842, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1037975096', 'app-name': '性用社-成人两性健康情趣声优交友社区', 'version-count': 25, 'days-per-version': 32.0, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id496856027', 'app-name': 'TripAdvisor(猫途鹰)', 'version-count': 25, 'days-per-version': 15.291666666666666, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1216088977', 'app-name': '榕树贷款-小额手机借钱软件', 'version-count': 25, 'days-per-version': 25.0, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id685872176', 'app-name': '自如-品质租房，创享生活', 'version-count': 25, 'days-per-version': 12.416666666666666, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1365537478', 'app-name': '秀蛋 - AR猪拜年', 'version-count': 21, 'days-per-version': 14.5, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id935095138', 'app-name': '必要 - 大牌品质 工厂价格', 'version-count': 25, 'days-per-version': 12.625, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1357550712', 'app-name': '心心美妆', 'version-count': 18, 'days-per-version': 16.11764705882353, 'days-per-version-last-6-month': 12.857142857142858, 'emergency-release-count': 0}
+{'id': 'id1138670825', 'app-name': '一周CP-创造美好相遇', 'version-count': 25, 'days-per-version': 11.416666666666666, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id416457422', 'app-name': '中国联通手机营业厅客户端(官方版)', 'version-count': 25, 'days-per-version': 29.833333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1319788668', 'app-name': '网易UU加速器-专业的手游加速工具', 'version-count': 19, 'days-per-version': 22.22222222222222, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id389481236', 'app-name': 'QQ同步助手-手机通讯录安全备份管家', 'version-count': 25, 'days-per-version': 17.0, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id738227542', 'app-name': '沪江网校-英语日语口语、托福雅思必备', 'version-count': 25, 'days-per-version': 15.75, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id639234809', 'app-name': '更美-美容微整形案例分享与特卖平台', 'version-count': 25, 'days-per-version': 9.583333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id426912243', 'app-name': '吉他 - 木吉他、电吉他 和 声音游戏', 'version-count': 25, 'days-per-version': 27.583333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id991016529', 'app-name': '一起考教师-教师资格证考试招聘在线学习', 'version-count': 25, 'days-per-version': 36.75, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id494216511', 'app-name': '租租车-出境自驾游租车平台', 'version-count': 25, 'days-per-version': 15.375, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1031178502', 'app-name': 'CHARLES & KEITH', 'version-count': 25, 'days-per-version': 41.791666666666664, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id992055304', 'app-name': '网易有钱-专业记账管钱软件', 'version-count': 25, 'days-per-version': 16.75, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id988424260', 'app-name': '记忆日°', 'version-count': 14, 'days-per-version': 102.23076923076923, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1052654880', 'app-name': 'LinkedIn领英-全球社交招聘平台', 'version-count': 25, 'days-per-version': 22.458333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id582934943', 'app-name': '途家-全球公寓民宿和短租预订平台', 'version-count': 25, 'days-per-version': 18.083333333333332, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id419261235', 'app-name': '汽车报价大全-易车旗下买车购车APP', 'version-count': 25, 'days-per-version': 18.125, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id600273928', 'app-name': '云闪付-银行业统一移动支付App', 'version-count': 25, 'days-per-version': 22.708333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id634896669', 'app-name': '美柚月经期助手-女性备孕怀孕育儿社区', 'version-count': 25, 'days-per-version': 19.125, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id513836029', 'app-name': '电信营业厅-新人领豪华大礼包', 'version-count': 25, 'days-per-version': 71.0, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id519952689', 'app-name': '翼支付', 'version-count': 25, 'days-per-version': 21.25, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1216507718', 'app-name': '会计云课堂', 'version-count': 22, 'days-per-version': 22.666666666666668, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1059098960', 'app-name': 'GoFun出行-首汽共享汽车', 'version-count': 25, 'days-per-version': 14.791666666666666, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id421997825', 'app-name': '会说话的汤姆猫2', 'version-count': 25, 'days-per-version': 81.70833333333333, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1336411132', 'app-name': 'Foodie - 美食相机', 'version-count': 19, 'days-per-version': 20.5, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id933128780', 'app-name': '易企秀-企业移动自营销推广工具', 'version-count': 25, 'days-per-version': 18.625, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id302584613', 'app-name': 'Kindle(电子阅读器)', 'version-count': 25, 'days-per-version': 19.208333333333332, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id647268330', 'app-name': 'Grab App', 'version-count': 25, 'days-per-version': 7.166666666666667, 'days-per-version-last-6-month': 7.2, 'emergency-release-count': 0}
+{'id': 'id1309411684', 'app-name': '吹牛-聊天交友平台', 'version-count': 25, 'days-per-version': 15.208333333333334, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1407674824', 'app-name': '元贝驾考-驾校学车考驾照刷题宝典', 'version-count': 18, 'days-per-version': 12.058823529411764, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id681583243', 'app-name': '手机管家－ 做最好用的手机工具类软件', 'version-count': 11, 'days-per-version': 188.1, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id943708006', 'app-name': '途虎养车－专业汽车保养平台', 'version-count': 25, 'days-per-version': 31.708333333333332, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id1063631937', 'app-name': '好好住-装修必备指南', 'version-count': 25, 'days-per-version': 12.875, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id982725967', 'app-name': '天翼网关', 'version-count': 25, 'days-per-version': 41.375, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id876336838', 'app-name': '喜马拉雅FM「听书社区」电台有声小说相声评书', 'version-count': 25, 'days-per-version': 20.625, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id919854496', 'app-name': 'WiFi万能钥匙-Wi-Fi安全一键连', 'version-count': 25, 'days-per-version': 10.541666666666666, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id1197745409', 'app-name': '趣出行', 'version-count': 25, 'days-per-version': 22.583333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id583700738', 'app-name': '中国移动（手机营业厅）', 'version-count': 25, 'days-per-version': 49.916666666666664, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id892311054', 'app-name': '360浏览器-安全上网神器', 'version-count': 25, 'days-per-version': 38.583333333333336, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id1373695174', 'app-name': 'OHHO - 年轻人的社交地图', 'version-count': 15, 'days-per-version': 11.142857142857142, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1386613630', 'app-name': 'WIDE短视频', 'version-count': 17, 'days-per-version': 11.1875, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id1130498044', 'app-name': 'Apple 支持', 'version-count': 19, 'days-per-version': 45.111111111111114, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id433126583', 'app-name': '1905电影网 开启电影“美”一刻', 'version-count': 25, 'days-per-version': 35.916666666666664, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id465617429', 'app-name': '海南航空-机票预订值机选座', 'version-count': 25, 'days-per-version': 34.916666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id443908613', 'app-name': 'QQ游戏-腾讯出品的斗地主棋牌地方麻将合集', 'version-count': 19, 'days-per-version': 115.33333333333333, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id468591734', 'app-name': 'e代驾-新用户叫代驾立减10元', 'version-count': 25, 'days-per-version': 28.916666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1025313530', 'app-name': '蜗牛睡眠-超好用的梦话失眠检测神器!', 'version-count': 25, 'days-per-version': 23.458333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id333903271', 'app-name': 'Twitter', 'version-count': 25, 'days-per-version': 10.333333333333334, 'days-per-version-last-6-month': 10.0, 'emergency-release-count': 0}
+{'id': 'id899100726', 'app-name': '荔枝-语音直播声临其境', 'version-count': 16, 'days-per-version': 105.93333333333334, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id1113392290', 'app-name': '掌上WeGame', 'version-count': 25, 'days-per-version': 40.666666666666664, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1102320385', 'app-name': '会说话的奇奇-宝宝巴士', 'version-count': 16, 'days-per-version': 47.46666666666667, 'days-per-version-last-6-month': 9999, 'emergency-release-count': 0}
+{'id': 'id597795676', 'app-name': '和包支付 - 为靠谱买单', 'version-count': 25, 'days-per-version': 21.5, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1359055423', 'app-name': '网易大神', 'version-count': 22, 'days-per-version': 12.142857142857142, 'days-per-version-last-6-month': 15.0, 'emergency-release-count': 0}
+{'id': 'id608188610', 'app-name': 'MOLDIV 美颜自拍与美图，照片编辑，拼图', 'version-count': 25, 'days-per-version': 88.08333333333333, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id915646377', 'app-name': '新罗网上免税店', 'version-count': 25, 'days-per-version': 27.458333333333332, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1265741262', 'app-name': '果师兄恢复大师', 'version-count': 10, 'days-per-version': 59.44444444444444, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id629774477', 'app-name': '芒果TV', 'version-count': 25, 'days-per-version': 10.625, 'days-per-version-last-6-month': 13.846153846153847, 'emergency-release-count': 0}
+{'id': 'id1052455390', 'app-name': '票牛-演唱会演出门票,体育赛事购票平台', 'version-count': 25, 'days-per-version': 10.75, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id472208016', 'app-name': '酷狗音乐-就是歌多', 'version-count': 25, 'days-per-version': 19.375, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id1120482509', 'app-name': '韩剧TV-正版韩剧社区', 'version-count': 25, 'days-per-version': 37.125, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id445375097', 'app-name': '爱奇艺PPS', 'version-count': 25, 'days-per-version': 42.25, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id609358564', 'app-name': '苏宁金融——驾驭财富 畅享生活', 'version-count': 25, 'days-per-version': 23.458333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1281878317', 'app-name': '达令家-享美物 致生活', 'version-count': 12, 'days-per-version': 45.09090909090909, 'days-per-version-last-6-month': 36.0, 'emergency-release-count': 0}
+{'id': 'id555257605', 'app-name': '江苏农商银行', 'version-count': 25, 'days-per-version': 70.5, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1039328791', 'app-name': '腾讯游戏助手', 'version-count': 14, 'days-per-version': 93.15384615384616, 'days-per-version-last-6-month': 90.0, 'emergency-release-count': 0}
+{'id': 'id725215315', 'app-name': '咪咕音乐-放肆听，趣玩乐', 'version-count': 25, 'days-per-version': 25.791666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id587366035', 'app-name': 'PicsArt美易照片编辑: 图片 & 拼贴画制作工具', 'version-count': 25, 'days-per-version': 11.0, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id401857578', 'app-name': '我查查-扫码比价神器', 'version-count': 25, 'days-per-version': 46.958333333333336, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id1397731566', 'app-name': '陌声-同城聊天交友约会', 'version-count': 15, 'days-per-version': 8.214285714285714, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1423108765', 'app-name': '十点读书 - 有声听书精品课程', 'version-count': 18, 'days-per-version': 9.647058823529411, 'days-per-version-last-6-month': 10.588235294117647, 'emergency-release-count': 0}
+{'id': 'id1111160472', 'app-name': '企鹅电竞-腾讯游戏官方直播平台', 'version-count': 25, 'days-per-version': 17.916666666666668, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id979857479', 'app-name': '美味不用等-餐厅排队预约订座', 'version-count': 25, 'days-per-version': 24.666666666666668, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id1017666776', 'app-name': '超级星饭团-即刻知道明星最新动态', 'version-count': 25, 'days-per-version': 25.041666666666668, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id337876534', 'app-name': '交通银行', 'version-count': 25, 'days-per-version': 41.5, 'days-per-version-last-6-month': 45.0, 'emergency-release-count': 0}
+{'id': 'id535886823', 'app-name': 'Chrome - 由Google开发的网络浏览器', 'version-count': 25, 'days-per-version': 24.708333333333332, 'days-per-version-last-6-month': 22.5, 'emergency-release-count': 0}
+{'id': 'id994788581', 'app-name': '网速测试大师-测网速首选', 'version-count': 25, 'days-per-version': 12.25, 'days-per-version-last-6-month': 16.363636363636363, 'emergency-release-count': 0}
+{'id': 'id985888622', 'app-name': '电话录音-手机通话自动录音取证软件', 'version-count': 13, 'days-per-version': 101.58333333333333, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id531212368', 'app-name': '天天基金-基金理财股票投资', 'version-count': 25, 'days-per-version': 26.583333333333332, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1326705989', 'app-name': '简影-创意视频编辑制作神器', 'version-count': 17, 'days-per-version': 24.5625, 'days-per-version-last-6-month': 25.714285714285715, 'emergency-release-count': 0}
+{'id': 'id1015319897', 'app-name': '小说阅读器-极简专业的txt小说阅读器', 'version-count': 25, 'days-per-version': 48.625, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+{'id': 'id1228553052', 'app-name': '熊猫优选 - 连网红都在这买的省钱APP', 'version-count': 25, 'days-per-version': 11.25, 'days-per-version-last-6-month': 11.25, 'emergency-release-count': 0}
+{'id': 'id1063183999', 'app-name': '盒马-鲜美生活', 'version-count': 25, 'days-per-version': 13.041666666666666, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id1055596148', 'app-name': '斗米-找工作求职的全职兼职软件', 'version-count': 25, 'days-per-version': 17.791666666666668, 'days-per-version-last-6-month': 20.0, 'emergency-release-count': 0}
+{'id': 'id1079718756', 'app-name': '鲨鱼记账-3秒钟快速记账手机助手', 'version-count': 14, 'days-per-version': 64.23076923076923, 'days-per-version-last-6-month': 60.0, 'emergency-release-count': 0}
+{'id': 'id930380089', 'app-name': '乐秀-视频编辑 & 视频剪辑 & 视频制作', 'version-count': 25, 'days-per-version': 9.25, 'days-per-version-last-6-month': 9.473684210526315, 'emergency-release-count': 0}
+{'id': 'id796339836', 'app-name': '平安好车主—买保险、办理赔、享服务', 'version-count': 25, 'days-per-version': 12.75, 'days-per-version-last-6-month': 12.0, 'emergency-release-count': 0}
+{'id': 'id554936514', 'app-name': '会说话的安吉拉', 'version-count': 17, 'days-per-version': 131.75, 'days-per-version-last-6-month': 180.0, 'emergency-release-count': 0}
+{'id': 'id438426078', 'app-name': 'PP视频-亚洲杯热播', 'version-count': 25, 'days-per-version': 18.375, 'days-per-version-last-6-month': 18.0, 'emergency-release-count': 0}
+{'id': 'id586449534', 'app-name': 'Microsoft PowerPoint', 'version-count': 25, 'days-per-version': 25.375, 'days-per-version-last-6-month': 30.0, 'emergency-release-count': 0}
+********************************************************************************
