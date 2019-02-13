@@ -22,34 +22,33 @@ def compute_days_per_version(appinfo):
 
     delta = lasttime - firsttime
 
-    days_per_version = delta.days * 1.0 / count
+    days_per_version = delta.days * 1.0 / (count-1)
 
     return days_per_version
 
-def compute_days_per_version_last_3_month(appinfo):
+def compute_days_per_version_last_6_month(appinfo):
     versions = appinfo['version_history']
     if len(versions) < 3:
         return 9999
 
-    latest = versions[0]['release_date']
-    latest_time = datetime.strptime(latest, '%Y年%m月%d日')
-    three_month_ago = latest_time - timedelta(days=90)
-
-    # find the first datetime
-
+    six_month_ago = datetime.now() - timedelta(days=180)
+    cnt = 0
     for version in versions:
         cur = version['release_date']
         cur_time = datetime.strptime(cur, '%Y年%m月%d日')
 
-        if 
+        delta = cur_time - six_month_ago
+        if delta.days < 0:
+            break
+        
+        cnt += 1
+    
+    return 180.0 / cnt
 
-
-
-    pass
-
+def compute_emergency_release_count(appinfo):
+    return 0
 
 def report_dir(path, option):
-
     applist = []
 
     files = os.listdir(path)
@@ -59,31 +58,37 @@ def report_dir(path, option):
         with open(filepath) as fp:
             appinfo = json.load(fp)
 
-            days_per_version = compute_days_per_version(appinfo)
-
             applist.append({
                 'id':appinfo['id'],
-                'app_name':appinfo['app_name'],
-                'version_count': len(appinfo['version_history']),
-                'days_per_version': days_per_version,
+                'app-name':appinfo['app_name'],
+                'version-count': len(appinfo['version_history']),
+                'days-per-version': compute_days_per_version(appinfo),
+                'days-per-version_last_6_month': compute_days_per_version_last_6_month(appinfo),
+                'emergency-release0count': compute_emergency_release_count(appinfo),
             })
     
     print('*' * 80)
 
     if option == 'version-count':
         print('=== Order by version count ===')
-        applist_orderby_count = sorted(applist, key = lambda app: app['version_count'], reverse=True)
+        applist_orderby_count = sorted(applist, key = lambda app: app['version-count'], reverse=True)
         for app in applist_orderby_count:
             print(app)
     elif option == 'days-per-version':
         print('=== Order by days per version ===')
-        applist_orderby_freq = sorted(applist, key = lambda app: app['days_per_version'])
+        applist_orderby_freq = sorted(applist, key = lambda app: app['days-per-version'])
         for app in applist_orderby_freq:
             print(app)
-    elif option == 'days-per-version-last-3-month':
-        pass
-    elif option == 'emergency-release':
-        pass
+    elif option == 'days-per-version-last-6-month':
+        print('=== Order by days per version last 6 month ===')
+        applist_orderby_freq = sorted(applist, key = lambda app: app['days-per-version-last-6-month'])
+        for app in applist_orderby_freq:
+            print(app)
+    elif option == 'emergency-release-count':
+        print('=== Order by emergency release count ===')
+        applist_orderby_freq = sorted(applist, key = lambda app: app['emergency-release-count'])
+        for app in applist_orderby_freq:
+            print(app)
     else:
         print('unknown option')
 
@@ -96,7 +101,7 @@ def help():
     print('  python report.py version-count <appinfo-directory-path>')
     print('  python report.py days-per-version <appinfo-directory-path>')
     print('  python report.py days-per-version-last-3-month <appinfo-directory-path>')
-    print('  python report.py emergency-release <appinfo-directory-path>')
+    print('  python report.py emergency-release-count <appinfo-directory-path>')
 
 
 def main():
