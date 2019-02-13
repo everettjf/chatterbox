@@ -65,7 +65,7 @@ def compute_emergency_release_count(appinfo):
             cnt += 1
     return cnt
 
-def report_dir(path, option):
+def rank_dir(path, option):
     applist = []
 
     files = os.listdir(path)
@@ -119,10 +119,10 @@ def report_dir(path, option):
 
 def help():
     print('Usage: ')
-    print('  python report.py version-count <appinfo-directory-path>')
-    print('  python report.py days-per-version <appinfo-directory-path>')
-    print('  python report.py days-per-version-last-3-month <appinfo-directory-path>')
-    print('  python report.py emergency-release-count <appinfo-directory-path>')
+    print('  python rank.py version-count <appinfo-directory-path>')
+    print('  python rank.py days-per-version <appinfo-directory-path>')
+    print('  python rank.py days-per-version-last-3-month <appinfo-directory-path>')
+    print('  python rank.py emergency-release-count <appinfo-directory-path>')
 
 
 def main():
@@ -133,7 +133,7 @@ def main():
     option = sys.argv[1]
     path = sys.argv[2]
 
-    report_dir(path, option)
+    rank_dir(path, option)
 
 
 if __name__ == '__main__':
