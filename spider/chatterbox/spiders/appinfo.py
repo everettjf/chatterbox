@@ -21,11 +21,14 @@ class AppinfoSpider(scrapy.Spider):
         return os.path.join(settings.PROJECT_ROOT,'..','apps.txt')
     
     def get_apps_txt_ids(self):
-        ids = []
 
         apps_txt_path = self.get_apps_txt_path()
         print('apps.txt : {}'.format(apps_txt_path))
 
+        if not os.path.exists(apps_txt_path):
+            return []
+
+        ids = []
         with open(apps_txt_path) as fp:
             for line in fp:
                 line = line.strip()
@@ -41,11 +44,14 @@ class AppinfoSpider(scrapy.Spider):
         return os.path.join(self.get_today_directory(),'topapp.json')
 
     def get_today_topapp_ids(self):
-        ids = []
 
         today_topapp_json_path = self.get_today_topapp_json_path()
         print('today topapp.json : {}'.format(today_topapp_json_path))
 
+        if not os.path.exists(today_topapp_json_path):
+            return []
+
+        ids = []
         with open(today_topapp_json_path) as fp:
             items = json.load(fp)
             for item in items:
